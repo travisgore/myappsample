@@ -1,0 +1,4104 @@
+[
+   {
+      "Title": "ab",
+      "Description": "1. ทารก 1. a baby"
+   },
+   {
+      "Title": "Adas",
+      "Description": "1. อาดัม 1. Adam"
+   },
+   {
+      "Title": "Amelikas",
+      "Description": "1. สหรัฐอเมริกา, อเมริกา 1. America, The United States of America, U.S.A"
+   },
+   {
+      "Title": "aub",
+      "Description": "1. หมา 1. a dog"
+   },
+   {
+      "Title": "av",
+      "Description": "1. ดิน 1. dirt, ground, earth lo lo av มอมแมม, สกปรก, คลุมโปงอยู่กับดิน - dirty, covered in dirt. ;"
+   },
+   {
+      "Title": "av qeeg",
+      "Description": "1. แผ่นดินไหว 1. to earthquake, an earthquake"
+   },
+   {
+      "Title": "cai",
+      "Description": "1. กฎหมาย, ประเพณี 1. law, custom, way ; kevcai กฎหมาย, ประเพณี - law, custom, way Nws tsis muaj cai เขาไม่มีสิทธิ - He doesn't have the right. Nws tsis paub cai เขาไม่มีมารยาท - He has no manners."
+   },
+   {
+      "Title": "caij",
+      "Description": "1. ช่วงเวลา, ฤดู 1. a time period caij no ฤดูหนาว - winter (time of cold) caij so ฤดูร้อน - summer (time of warm) 2. ขี่ 2. to ride Nws caij nees เขาขี่ม้า - He rides horses"
+   },
+   {
+      "Title": "cais",
+      "Description": "1. แยก 1. to separate, divide cais ua ob tog แยกให้เป็นสองกลุม - separate into two sides"
+   },
+   {
+      "Title": "caj ces",
+      "Description": "1. ลูกหลาน 1. offspring, progeny"
+   },
+   {
+      "Title": "caj dab",
+      "Description": "1. คอ 1. the neck"
+   },
+   {
+      "Title": "caj npab",
+      "Description": "1. ต้นแขน 1. the upper arm"
+   },
+   {
+      "Title": "cas",
+      "Description": "หรือ 'li cas' - or 'li cas' 1. อย่างไร 1. how"
+   },
+   {
+      "Title": "caw",
+      "Description": "1. เชิญ 1. to invite, to welcome someone to do something"
+   },
+   {
+      "Title": "cawm",
+      "Description": "1. ช่วยให้พ้นภัย 1. to save from danger, to save nws cawm nws dim เขาช่วยให้เขาพ้นภัย - he saved him (safe, to the state of being safe)"
+   },
+   {
+      "Title": "cawv",
+      "Description": "1. เหล้า, สุรา, แอลกอฮอล์ 1. whiskey, alcohol haus cawv ดื่มเหล้า - drink whiskey"
+   },
+   {
+      "Title": "ceeb toom",
+      "Description": "1. เตือน, ตักเตือน 1. to warn,"
+   },
+   {
+      "Title": "ceeb tsheej",
+      "Description": "1. สวรรค์ 1. heaven, the heavenly realm"
+   },
+   {
+      "Title": "ceeblaj",
+      "Description": "1. ยาก, ลำบาก, ยุ่งยาก 1. to be difficult, to be hard"
+   },
+   {
+      "Title": "ceev",
+      "Description": "1. เร็ว 1. to be fast, to do something quickly Nws tsav tsheb ceev ceev เขาขับรถเร็วๆ - He drives the car very fast. 1. ประหยัด, สะสม 1. to save up, to collect and keep"
+   },
+   {
+      "Title": "ceev faj",
+      "Description": "1. ระวัง, ระมัดระวัง, รอบคอบ 1. to be careful, to be cautious"
+   },
+   {
+      "Title": "ces",
+      "Description": "1. แล้วก็ 1. then, and then Kuv tuaj ces koj tos kuv ฉันมาแล้วก็คุณจะรับฉัน - I came then you waited for me."
+   },
+   {
+      "Title": "cev",
+      "Description": "1. ยกขึ้น 1. to hand up, to deliver Cev rab rauj rau nws yuav ยกค้อนขึ้นให้เขารับ - hand that hammer up to him 2. ร่างกาย (lub) 2. the body (lub) lub cev ร่างกาย - the body"
+   },
+   {
+      "Title": "chav",
+      "Description": "1. ห้อง 1. a room"
+   },
+   {
+      "Title": "chaw",
+      "Description": "1. สถานที่ 1. a place, space"
+   },
+   {
+      "Title": "cheem",
+      "Description": "1. ยับยั้ง, ขัดขวาง, ห้ามปราม 1. to inhibit, to dissuade, to try to stop something or someone"
+   },
+   {
+      "Title": "cheem tsum",
+      "Description": "1. จำเป็น, จำเป็นต้อง 1. to need"
+   },
+   {
+      "Title": "chim",
+      "Description": "1. โกรธ, โมโห 1. to be angry, to be mad"
+   },
+   {
+      "Title": "chiv keeb",
+      "Description": "1. ปฐมกาล 1. genesis, the beginning"
+   },
+   {
+      "Title": "chob",
+      "Description": "1. เสียบ, เสียบทะลุ 1. to stab, pierce"
+   },
+   {
+      "Title": "cia",
+      "Description": "1. ปล่อยให้, ให้ 1. to allow, to permit, to let. cia wb mus ua ke ให้เราไปด้วยกัน - Let's go together 1. ไว้ 1. adds a sense of permanence to a verb Khaws cia เก็บไว้ - to gather and keep"
+   },
+   {
+      "Title": "cia siab",
+      "Description": "1. ไว้ใจ, วางใจ 1. to trust, to hope in"
+   },
+   {
+      "Title": "ciaj",
+      "Description": "1. มีชีวิตอยู่, ทำให้มีชีวิตอยู่ 1. to come to life, to be alive ciaj sia lawm มีชีวิตอยู่แล้ว - came alive tsa nws ciaj sawv rov los ntawm txoj kev tuag ยกฟื้นจากตาย, ตรงตัวว่า ยกเขาทำให้มีชีวิตขึ้นจากตาย - to raise him back to life from death"
+   },
+   {
+      "Title": "ciam",
+      "Description": "1. ชายแดน, เขตแดน 1. a border, a boundary"
+   },
+   {
+      "Title": "cob",
+      "Description": "1. อบรม 1. to train yuav tsum cob me nyuam จำเป็นต้องอบรมลูก - One must train children. 2. ผูก, ประสาน 2. to bind to, to attach to, to affix"
+   },
+   {
+      "Title": "cog",
+      "Description": "1. ปลูก, ตั้ง 1. to plant, to install Nws cog lus tias... เขาสัญญา(ปลูกคำ)ว่า - he promises (plants words) that... Nws cog lub noob rau hauv av เขาปลูกเมล็ดในดิน - He plants the seed in the ground"
+   },
+   {
+      "Title": "cog lus",
+      "Description": "1. ทำสัญญา 1. to promise"
+   },
+   {
+      "Title": "coj",
+      "Description": "1. นำ, นำไป 1. to take along, to lead, to lead the way Nws coj ib tug phooj ywg tuaj เขานำเพื่อนกับเขามา - He brought a friend along 2. ปฏิบัติ, ดำเนินงาน 2. to follow a certain way, for example, to follow a religion. To act or behave in a way."
+   },
+   {
+      "Title": "coob",
+      "Description": "1. จำนวนมาก, หลาย, เยอะแยะ... ไช้โดยเฉพาะคนและสัตว์ 1. many, a lot, generally used just with people or animals muaj neeg coob coob มีคนเยอะแยะ - there are many people"
+   },
+   {
+      "Title": "cov",
+      "Description": "1. พวก 1. pluralizer, used to express more than one cov txiv neej พวกผู้ชาย - the men cov poj niam พวกผู้หญิง - the women cov ntshav โลหิต, เลือด... บางคำจะต้องไช้คำว่า cov ก่อน. - blood, some words must be pluralized by 'cov' cov nyom หญ้า... บางสิ่งที่มีจำนวนมากจะต้องไช้คำว่า cov ก่อน. - grass, some words must be pluralized by 'cov'"
+   },
+   {
+      "Title": "cov xaiv tseg",
+      "Description": "หรือ/ or 'tus xaiv tseg' 1. ผู้ ถูก เจิม 1. the anointed, the selected"
+   },
+   {
+      "Title": "cua",
+      "Description": "1. ลม, อากาศ 1. air, wind tshuab cua เป่าลม - to blow air cua daj cua dub พายุ - a storm huab cua อากาศ, เมฆลม - weather, clouds and wind"
+   },
+   {
+      "Title": "cua daj cua dub",
+      "Description": "1. พายุ 1. a storm, a tempest"
+   },
+   {
+      "Title": "cuab",
+      "Description": "... lub cuab lub yig - ครอบครัว - the family"
+   },
+   {
+      "Title": "cuab pob ntseg",
+      "Description": "1. ฟัง 1. to listen, to turn your ear so as to listen"
+   },
+   {
+      "Title": "cuab yeej",
+      "Description": "1. อุปกรณ์, เครื่องมือ 1. equipment, utensils"
+   },
+   {
+      "Title": "cuag",
+      "Description": "1. เจอ, พบ 1. to meet, meet up with, encounter kuv los cuag koj ผมมาพบกับคุณ - I have come to meet you. zoo tsis cuag ดีไม่พอ... แสดงว่า สิ่งที่หนึ่งดีไม่เท่ากับสิ่งที่สอง - Not as good... shows that the first thing's quality of 'goodness' has not 'met up' with the second thing."
+   },
+   {
+      "Title": "cuam tshuam",
+      "Description": "1. ยุ่งกับ, แทรกแซง, เข้าไปยุ่ง 1. to interfere, to meddle"
+   },
+   {
+      "Title": "cuav",
+      "Description": "1. เทียม, เท็จ, ปลอม 1. to be fake, false, a sham, a counterfeit phooj ywg cuav เพื่อนเท็จ - fake friends"
+   },
+   {
+      "Title": "cwj pwm",
+      "Description": "1. บุคลิกภาพ 1. attitude, manner, character Nws muaj tus cwj pwm tsis zoo เขามีบุคลิกภาพไม่ดี - He has a bad attitude"
+   },
+   {
+      "Title": "cwjmem",
+      "Description": "1. ปากกา 1. a pen"
+   },
+   {
+      "Title": "dab",
+      "Description": "1. ผี, ปีศาจ 1. a demon, a wicked spirit, a monster"
+   },
+   {
+      "Title": "dabtsi",
+      "Description": "1. อะไร 1. what 1. อะไร 1. anything, something muab nws dabtsi los noj ให้อะไรต่อเขากิน - Give him anything/ something to eat. Kuv tsis muaj dabtsi noj ฉันไม่มีอะไรกิน - I don't have anything to eat."
+   },
+   {
+      "Title": "dag",
+      "Description": "1. โกหก 1. to lie lo lus dag คำโกหก - a lie hais lus dag พูดคำโกหก - to lie, to speak lies Nws dag kuv เขาโกหกผม - He lied to me 2. ล่อ, ล้อเล่น, หลอก 2. to trick, play around with, joke Nws dag kuv เขาหลอกฉัน - He tricked me 3. คำนี้มักจะใช้กับคำว่า 'zog' มีความหมายว่า 'พลัง' 3. used along with 'zog' to mean 'energy'"
+   },
+   {
+      "Title": "daim",
+      "Description": "1. คำลักษณนามสำหรับคำนามที่เป็นแผ่น 1. a noun classifier that describes flat things daim ntaub ผ้า - a cloth daim ntawv กระดาษ - a piece of paper"
+   },
+   {
+      "Title": "daj",
+      "Description": "1. เหลือง 1. to be yellow, the color yellow"
+   },
+   {
+      "Title": "dav",
+      "Description": "1. กว้าง 1. wide 2. เหยี่ยว (tus) 2. the hawk (tus)"
+   },
+   {
+      "Title": "daw",
+      "Description": "1. เค็มๆ 1. to be salty"
+   },
+   {
+      "Title": "dawb",
+      "Description": "1. ขาว 1. to be white, white xim dawb สีขาว - the color white ; 2. ฟรี 2. to be free, to be without cost Kuv pub dawb. ฉันให้ฟรี - I give to you for free."
+   },
+   {
+      "Title": "dawb huv",
+      "Description": "1. บริสุทธิ์ 1. to be holy, to be clean, to be innocent."
+   },
+   {
+      "Title": "dawm",
+      "Description": "1. สะดุดเท้า 1. to trip, to stumble"
+   },
+   {
+      "Title": "daws",
+      "Description": "1. แก้, แกะ 1. to untie, to unravel, to loosen"
+   },
+   {
+      "Title": "de",
+      "Description": "1. เด็ ด, รุมทึ้ง 1. to pluck, squeeze, pinch"
+   },
+   {
+      "Title": "deb",
+      "Description": "1. ไกล 1. to be far, distant Nws nyob deb เขาอยู่ไกล - he is far"
+   },
+   {
+      "Title": "deev",
+      "Description": "1. ร่วมเพศ 1. to have sex with, to mate with"
+   },
+   {
+      "Title": "dej",
+      "Description": "1. น้ำ 1. water (ดู/ see 'num' สำหรับ/ for 'dej num')"
+   },
+   {
+      "Title": "dej dag",
+      "Description": "1. น้ำท่วม 1. a flood"
+   },
+   {
+      "Title": "dej dag nyab",
+      "Description": "1. น้ำท่วม 1. a flood"
+   },
+   {
+      "Title": "dhau",
+      "Description": "1. เกินไป 1. too, too much, past the point of... Noj ntau dhau lawm กินมากเกินไปแล้ว - He ate too much. 2. ผ่านไป 2. to pass by, to go past Mus dhau nws lub tsev lawm. ผ่านไปบ้านเขาแล้ว - He went past his house."
+   },
+   {
+      "Title": "dheev",
+      "Description": "1. คำวิเศษณ์พิเศษที่แสดงการกระทำอย่างรวดเร็ว, ฉับพลัน, จู่ ๆ 1. an adverb that increases the quickness or suddenness with which a verb is done"
+   },
+   {
+      "Title": "dim",
+      "Description": "1. พ้น, พ้นภัย, โดนความรอด 1. to have escaped, to be saved khiav dim หนีพ้นภัย - run to safety Nws cawm nws dim เขาช่วยให้เขาพ้นภัย - He rescued him. Lit. He rescued him saved. He rescued him to the point of being safe."
+   },
+   {
+      "Title": "dua",
+      "Description": "1. อีกครั้ง, ใหม่ 1. used to express something additional, more, again. sib ntsib dua เจอกัน ใหม่ - See you again . . มากกว่า 2. more than, -er Tsob ntoo siab dua pob zeb ต้นไม้ สูงกว่า หิน - A tree is taller than a rock. lub tsev no tshiab dua บ้านนี้ ใหม่ กว่า - This house is newer ."
+   },
+   {
+      "Title": "duab",
+      "Description": "1. รูปภาพ, ภาพ, เงา 1. a picture, an image, a shadow daim duab รูปภาพ - a picture, an image duab ntxoov เงา - a shadow"
+   },
+   {
+      "Title": "duav",
+      "Description": "1. หลังส่วนล่าง 1. the lower back"
+   },
+   {
+      "Title": "dub",
+      "Description": "1. ดำ 1. to be black, the color black"
+   },
+   {
+      "Title": "eeb",
+      "Description": "1. อานม้า 1. a saddle"
+   },
+   {
+      "Title": "es",
+      "Description": "1. แล้ว … คำนี้ใช้ในการแสดงถึงการหยุดนิ่งชั่วคราวสั้นๆ ในการคิด 1. then… this word is used to express a brief pause in thought, similar to a comma in English"
+   },
+   {
+      "Title": "ev",
+      "Description": "1. แบก, แบกหาม 1. to carry on the back. ev menyuam แบกลูกๆ - carry child on the back"
+   },
+   {
+      "Title": "Eva",
+      "Description": "1. เอวา 1. Eve"
+   },
+   {
+      "Title": "fab",
+      "Description": "1. ด้าน, ฝ่าย, มุมมอง 1. a side, angle, perspective"
+   },
+   {
+      "Title": "faib",
+      "Description": "1. แบ่ง, แบ่งสรร, แจกจ่าย 1. to share, to distribute"
+   },
+   {
+      "Title": "faj",
+      "Description": "... ceev faj ระวัง - beware! look out!"
+   },
+   {
+      "Title": "fav xeeb",
+      "Description": "1. ทรยศ, กบฎ 1. to betray, turn against, apostatize (ดู ntxeev siab; see 'ntxeev siab')"
+   },
+   {
+      "Title": "feeb",
+      "Description": "1. นาที 1. a minute"
+   },
+   {
+      "Title": "feem",
+      "Description": "1. ส่วน 1. a part, a fraction, a role or feem ntau ส่วนใหญ่ - the majority; lit: the larger part feem coob ส่วนใหญ่...เฉพาะสำหรับคนและสัตว์ - the majority (coob is used specifically with people or animals) tsis muaj feem ไม่มีส่วน - to have no part, no role ib feem kaum หนื่งในสิบ - one tenth, 10%; 1/10"
+   },
+   {
+      "Title": "foom",
+      "Description": "1. อวย 1. to bless or curse, the act of speaking or wishing a blessing or a curse"
+   },
+   {
+      "Title": "foom koob hmoov",
+      "Description": "1. อวยพร 1. to bless, to give a blessing"
+   },
+   {
+      "Title": "hais",
+      "Description": "1. พูด, บอก 1. say, says, said hais tias... บอก ว่า... - says that... Nws hais tias nws yuav tuaj เขา บอก ว่าเขาจะมา - He said that he would come Xuv xav hais tias... ฉันคิดว่า...บางครั้งความหมายร่วมมือกับคำว่า tias เท่านั้น - I think that... sometimes the word 'hais' is only used as a helping word to 'tias.'"
+   },
+   {
+      "Title": "haiv neeg",
+      "Description": "1. สัญชาติ 1. a nation, nationality Nws yog haiv neeg Hmoob เขาคือสัญชาติม้ง - He is of the Hmong nationality."
+   },
+   {
+      "Title": "haj yam",
+      "Description": "1. ยิ่ง, มากขึ้น, มากกว่าเดิม 1. even more so, to be greater or more so than before Nws haj yam phem เขายิ่งแย่ลง - He is even worse! He has gotten even worse!"
+   },
+   {
+      "Title": "hajyam",
+      "Description": "1. ยิ่ง, มากขึ้น, มากกว่าเดิม 1. even more so, to be greater or more so than before Nws haj yam phem เขายิ่งแย่ลง – He is even worse! He has gotten even worse!"
+   },
+   {
+      "Title": "haujlwm",
+      "Description": "1. งาน, ธุรกิจ 1. n. work, business Ua haujlwm. ทำงาน - do work"
+   },
+   {
+      "Title": "haum",
+      "Description": "1. ที่เหมาะสม, เข้ากัน, เข้าชุด 1. fitting, to fit with to suit tsis haum kuv siab ไม่เหมาะใจ (ผมไม่เห็นด้วย) - that doesn't sit well with me; I don't agree sib haum ua ke รวมด้วยกันเป็นอันเดียว - to fit together"
+   },
+   {
+      "Title": "haum xeeb",
+      "Description": "1. เข้าคอ, สามัคคี 1. to get along, to be in harmony, unified sib haum xeeb สามัคคีกัน - unified, in harmony"
+   },
+   {
+      "Title": "haus",
+      "Description": "1. ดื่ม 1. to drink haus dej ดื่มน้ำ - drink water"
+   },
+   {
+      "Title": "hauv",
+      "Description": "1. ใน 1. in, to be in"
+   },
+   {
+      "Title": "hauv caug",
+      "Description": "1. เข่า 1. the knee"
+   },
+   {
+      "Title": "hauv paus",
+      "Description": "1. อีกครั้ง, ใหม่ 1. used to express something additional, more, again. sib ntsib dua เจอกัน ใหม่ - See you again . 2. มากกว่า 2. more than, -er Tsob ntoo siab dua pob zeb ต้นไม้ สูงกว่า หิน - A tree is taller than a rock. lub tsev no tshiab dua บ้านนี้ ใหม่ กว่า - This house is newer ."
+   },
+   {
+      "Title": "hauv pliaj",
+      "Description": "1. หน้าผาก (lub) 1. the forehead (lub)"
+   },
+   {
+      "Title": "hauv qab",
+      "Description": "1. ล่าง, ที่ล่าง 1. under, underneath"
+   },
+   {
+      "Title": "hauv siab",
+      "Description": "1. หน้าอก, อก 1. the chest, the bosom"
+   },
+   {
+      "Title": "hawm",
+      "Description": "1. นมัสการ 1. to worship, revere pe hawm นมัสการ - to worship Peb pe hawm Vaj Tswv เรานมัสการพระเจ้า - We worship God."
+   },
+   {
+      "Title": "heev",
+      "Description": "1. มาก 1. very ; Nws siab heev. เขาสูงมาก - He is very tall. Kuv chim heev ฉันโกรธมาก - I am very angry. ; 2. ดุ 2. to be fierce, intense ; Nws heev kawg li. เขาดุร้ายที่สุด - He is extremely fierce."
+   },
+   {
+      "Title": "hem",
+      "Description": "1. ขู่, ข่มขวัญ, ข่มขู่ 1. to threaten, to scare"
+   },
+   {
+      "Title": "hiavtxwv",
+      "Description": "1. มหาสมุทร, ทะเล 1. the ocean"
+   },
+   {
+      "Title": "hla",
+      "Description": "1. ข้าม , ผ่านไป, เดินเลย, 1. to cross, to cross over, to pass Nws hla txojkev. เขาข้าม ถนน - He crossed the road."
+   },
+   {
+      "Title": "hlab ntsha",
+      "Description": "1. หลอดเลือดด 1. a vein or artery in the body"
+   },
+   {
+      "Title": "hlab pas",
+      "Description": "1. หลอดลม 1. the trachea, the windpipe"
+   },
+   {
+      "Title": "hlab qa",
+      "Description": "1. หลอดอาหาร 1. the esophagus, the gullet"
+   },
+   {
+      "Title": "hlawv",
+      "Description": "1. เผา 1. to burn something with fire"
+   },
+   {
+      "Title": "hli",
+      "Description": "1. เดือน 1. a month Lub rau hli ntuj เดือนที่ 6; มิถุนายน – the 6th month, June"
+   },
+   {
+      "Title": "hlis",
+      "Description": "1. เดือน (เปลี่ยนโทนเสียงจาก hli) ; 1. a month (tone change from hli) ; Lub peb hlis ntuj เดือนที่สาม; มีนาคม - the third month, March ; 1. ดวงจันทร์ (lub) ; 1. the moon (lub)"
+   },
+   {
+      "Title": "hliv",
+      "Description": "1. เท, ริน 1. to pour"
+   },
+   {
+      "Title": "hlo",
+      "Description": "1. คำที่เพิ่มความฉับพลันหรือความเด็ดเดี่ยวให้กับคำกริยาที่นำหน้า 1. a word that adds a sense abruptness, suddenness or resoluteness to the preceding verb."
+   },
+   {
+      "Title": "hlob",
+      "Description": "1. การเติบโต 1. to get bigger, to get older Kuv loj hlob lawm. ผมเติบโตแล้ว - I am grown up. 2. ใช้แสดงว่าแก่กว่าหรือคนที่อายุมากที่สุด 2. to be older, used to show that someone is older than someone else or the oldest. Nws hlob kuv. เขาแก่กว่าผม - He is older than me."
+   },
+   {
+      "Title": "hloov",
+      "Description": "1. เปลี่ยน 1. to change, to switch Hloov koj kev xav. เปลี่ยนความคิดไป - Change your thinking."
+   },
+   {
+      "Title": "hluas",
+      "Description": "1. หนุ่ม 1. a young person Cov hluas ua si ua ke พวกหนุ่มเล่นกัน - The young ones play together"
+   },
+   {
+      "Title": "hluav taws",
+      "Description": "1.ไฟ 1. fire"
+   },
+   {
+      "Title": "hluavtaws",
+      "Description": "1.ไฟ 1. fire"
+   },
+   {
+      "Title": "hlub",
+      "Description": "1. รัก 1.to love Kuv hlub koj. ฉันรักเธอ - I love you. 2. สงสาร, สมเพช 2. to pity, feel sorry for"
+   },
+   {
+      "Title": "hlwb",
+      "Description": "1. สมอง 1. the brain"
+   },
+   {
+      "Title": "hmab",
+      "Description": "1. ไม้เถา, เถาวัลย์ ; 1. a vine, a creeping plant"
+   },
+   {
+      "Title": "hmo",
+      "Description": "1. คืน 1. night, nighttime Hmo no peb mus ตอนคืนนี้เราจะไป - Tonight we go. 2. อาหารเย็น (pluas) 2. dinner, the evening meal (pluas)"
+   },
+   {
+      "Title": "Hmoob",
+      "Description": "1. ชาวม้ง, คนม้ง 1. the Hmong, the Hmong people"
+   },
+   {
+      "Title": "hmoov",
+      "Description": "1. มหาสมุทร, ทะเล 1. the ocean"
+   },
+   {
+      "Title": "hnav",
+      "Description": "1. อีกครั้ง, ใหม่ 1. used to express something additional, more, again. sib ntsib dua เจอกัน ใหม่ - See you again . 2. มากกว่า 2. more than, -er Tsob ntoo siab dua pob zeb ต้นไม้ สูงกว่า หิน - A tree is taller than a rock. lub tsev no tshiab dua บ้านนี้ ใหม่ กว่า - This house is newer ."
+   },
+   {
+      "Title": "hnov",
+      "Description": "1. ได้ยิน, รู้สึก (เจ็บ) 1. to hear, to sense, to feel (as in 'feel pain' not 'feel sad')"
+   },
+   {
+      "Title": "hnub",
+      "Description": "1. วัน 1. a day 2. ดวงอาทิตย์ (lub) hnub 2. the sun (lub) hnub"
+   },
+   {
+      "Title": "hnub nyoog",
+      "Description": "1. อายุ 1. age, one's years of life, one's age."
+   },
+   {
+      "Title": "hnub qub",
+      "Description": "1. ดวงดาว 1. a star"
+   },
+   {
+      "Title": "hnyav",
+      "Description": "1. หนัก 1. to be heavy"
+   },
+   {
+      "Title": "hnyo",
+      "Description": "1. คำที่เพิ่มความหนักให้กับคำกริยาบางคำเช่น 'ntxhov' หรือ 'tshee' 1. a word that adds intensity to verbs such as 'ntxhov' or 'tshee'"
+   },
+   {
+      "Title": "hnyuv loj",
+      "Description": "1. ลำไส้ใหญ่ 1. the large intestine"
+   },
+   {
+      "Title": "hnyuv mos",
+      "Description": "1. ลำไส้เล็ก 1. the small intestine"
+   },
+   {
+      "Title": "hnyuv tws",
+      "Description": "1. ไส้ติง่ 1. the appendix (body part)"
+   },
+   {
+      "Title": "ho",
+      "Description": "1. แล้ว ... คำนี้ใช้ในการแสดงถึงการหยุดนิ่งชั่วคราวสั้นๆ ในการคิด 1. then... this word is used to express a brief pause in thought"
+   },
+   {
+      "Title": "hom",
+      "Description": "1. ชนิด 1. a type, a kind 2. คัดแยก 2. to mark off, section off"
+   },
+   {
+      "Title": "hom phiaj",
+      "Description": "1. เป้า, เป้าหมาย 1. a target, a goal"
+   },
+   {
+      "Title": "hu",
+      "Description": "1. เรียก, เรียกหา 1. to call"
+   },
+   {
+      "Title": "hu nkauj",
+      "Description": "1. ร้องเพลง 1. to sing"
+   },
+   {
+      "Title": "huab",
+      "Description": "1. เมฆ (tauv huab) 1. a cloud (tauv huab) ib tau(v) huab เมฆหนึ่งก้อน - A cloud"
+   },
+   {
+      "Title": "huam vam",
+      "Description": "1. เจริญ 1. to excel, to flourish, to prosper"
+   },
+   {
+      "Title": "huas",
+      "Description": "1. ชิง, แย่ง; การแข่งขันหรือการออกความพยายามมากเพื่อจะได้รับสิ่งใดสิ่งหนึ่ง 1. to grab and snatch at, to fight or struggle to attain something."
+   },
+   {
+      "Title": "hub",
+      "Description": "1. ไห, ภาชนะ 1. A jar."
+   },
+   {
+      "Title": "huv",
+      "Description": "1. สะอาด 1. to be clean"
+   },
+   {
+      "Title": "huv si",
+      "Description": "1. ทั้งหมด 1. all, completely."
+   },
+   {
+      "Title": "huvsi",
+      "Description": "1. ทั้งหมด 1. all, completely."
+   },
+   {
+      "Title": "hwj",
+      "Description": "1. ขวด (lub) 1. a bottle (lub)"
+   },
+   {
+      "Title": "hwj huam",
+      "Description": "1. พลัง, กำลัง (lub) 1. power, force, active force (lub)"
+   },
+   {
+      "Title": "hwjchim",
+      "Description": "1. อำนาจ 1. power, authority"
+   },
+   {
+      "Title": "hwjhuam",
+      "Description": "1. พลัง, กำลัง (lub) 1. power, force, active force (lub)"
+   },
+   {
+      "Title": "hwm",
+      "Description": "1. เคารพ, นับถือ 1. to respect (ดู/ see 'saib taus')"
+   },
+   {
+      "Title": "iab",
+      "Description": "1. ขม 1. to be bitter"
+   },
+   {
+      "Title": "iab hiam",
+      "Description": "1. กล่าวโทษ, กล่าวหา, ใส่ร้าย 1. to accuse, to slander, to denounce"
+   },
+   {
+      "Title": "iav",
+      "Description": "1. กระจก (daim) 1. glass (daim)"
+   },
+   {
+      "Title": "ib",
+      "Description": "1. หนึ่ง, 1 1. one, 1"
+   },
+   {
+      "Title": "ib co",
+      "Description": "1. บาง 1. some จาก ib co(v) - tone change from 'ib co(v)'"
+   },
+   {
+      "Title": "ib puas tsav yam",
+      "Description": "1. ทุกสิ่งทุกอย่าง 1. all things, everything"
+   },
+   {
+      "Title": "ib siab ob qeg",
+      "Description": "1. สำนวนเกี่ยวกับการเสียชีวิต 1. an idiom for death Thaum muaj ib siab ob qeg... เมื่อไครเสียชีวิต... - When someone dies..."
+   },
+   {
+      "Title": "ib tsoom",
+      "Description": "1. ทุกคน 1. all, every; used to refer to groups of people"
+   },
+   {
+      "Title": "ib txhia",
+      "Description": "1. บางคน 1. some, some people"
+   },
+   {
+      "Title": "ib txwm",
+      "Description": "1. เสมอ, เสมอไป, 1. always, constantly"
+   },
+   {
+      "Title": "ib yam li",
+      "Description": "1. เหมือนกับ, เหมือนกัน 1. exactly as, the same as"
+   },
+   {
+      "Title": "ib yam nkaus",
+      "Description": "1. เหมือนกันทุกประการ, เหมือนกันเลย 1. to be identical, exactly the same"
+   },
+   {
+      "Title": "kab",
+      "Description": "1. เส้น 1. a line 2. แมลง 2. a bug, an insect"
+   },
+   {
+      "Title": "kab ntsab",
+      "Description": "1. คำโบราณที่หมายความว่า 'สบายดี' เหมือนกับคำว่า 'nyob zoo'. 1. an ancient word that means ' to be well,' similar to the word, 'nyob zoo.'"
+   },
+   {
+      "Title": "kaj",
+      "Description": "1. แสง, สว่าง 1. a ray of light; to be bright"
+   },
+   {
+      "Title": "kaj siab",
+      "Description": "1. ความสงบสุข 1. to be at peace, to be happy"
+   },
+   {
+      "Title": "kaj siab lug",
+      "Description": "1. ความสงบสุข 1. to be at peace, to be happy"
+   },
+   {
+      "Title": "kam",
+      "Description": "1. ยอม 1. to be willing"
+   },
+   {
+      "Title": "kas",
+      "Description": "1. หนอนชนิดที่กินเนื้อของคนตาย หรือมักจะพบในกองขยะ, ตัวอ่อนของแมลงวัน (tus kas) 1. the maggot, the larva of a fly. (tus kas)"
+   },
+   {
+      "Title": "kauj ruam",
+      "Description": "1. ย่าง ก้าว , ก้าว 1. a footstep, a step (forward or backward)"
+   },
+   {
+      "Title": "kaum",
+      "Description": "1. สิบ, 10 1. ten, 10"
+   },
+   {
+      "Title": "kav",
+      "Description": "1. ปกครอง 1. to rule"
+   },
+   {
+      "Title": "kav tsij",
+      "Description": "1. คำสั่งซึ่งสั่งให้ดำเนินการ เหมือนพูดว่า 'ทำไปเลย ... ' 'ทำไปซะ' 1. a command to go ahead with an action, 'go on and...'"
+   },
+   {
+      "Title": "kavtsij",
+      "Description": "1. คำสั่งซึ่งสั่งให้ดำเนินการ เหมือนพูดว่า 'ทำไปเลย ... ' 'ทำไปซะ' 1. a command to go ahead with an action, 'go on and...'"
+   },
+   {
+      "Title": "kaw",
+      "Description": "1. ปิด 1. to close, to be closed"
+   },
+   {
+      "Title": "kawg",
+      "Description": "1. ปลาย, ท้าย, ที่สุด, สุดท้าย 1. to the end, to the extreme point, completely thaum kawg ในที่สุด - in the end, finally"
+   },
+   {
+      "Title": "kawm",
+      "Description": "1. เรียน, ศึกษา 1. to learn, to study"
+   },
+   {
+      "Title": "keeb",
+      "Description": "1. เชื้อ 1. yeast, bacteria"
+   },
+   {
+      "Title": "keeb kwm",
+      "Description": "1. ประวัติศาสตร์ 1. history, a record, events in the past."
+   },
+   {
+      "Title": "kev",
+      "Description": "1. ถนน (txoj) kev 1. road (txoj) kev 2. ความ, ทาง, เส้น (txoj) kev 2. the way of... the path of...; can turn some verbs into nouns (txoj) kev"
+   },
+   {
+      "Title": "kev lig kevcai",
+      "Description": "1. ประเพณี 1. a tradition"
+   },
+   {
+      "Title": "kev nom kev tswv",
+      "Description": "1. การเมือง, รัฐบาล 1. politics, government (ดู/see 'nom,' 'tswv.')"
+   },
+   {
+      "Title": "kev ntseeg",
+      "Description": "1. ความเชื่อ, ศาสนา 1. faith, religion"
+   },
+   {
+      "Title": "kev plees kev yi",
+      "Description": "1. การผิดประเวณี, มีเพศสัมพันธ์นอกสมรส 1. adultery, fornication, sexual relations outside of the marriage 2. การคบกัน 2. dating, courting"
+   },
+   {
+      "Title": "kev ploj kev tuag",
+      "Description": "1. ความตาย 1. Death"
+   },
+   {
+      "Title": "kev sib txoos",
+      "Description": "1. การประชุม 1. a meeting"
+   },
+   {
+      "Title": "kev tsov kev rog",
+      "Description": "1. สงคราม 1. war, the way of war, warcraft (ดู ua tsov ua rog, see 'ua tsov ua rog') (ดู tsov rog, see 'tsov rog')"
+   },
+   {
+      "Title": "kev tub sab tub nyiag",
+      "Description": "1. โจรกรรม, อาชญากรรม 1. theft, crime"
+   },
+   {
+      "Title": "kevcai",
+      "Description": "1. กฎหมาย, ประเพณี 1. law, custom, tradition"
+   },
+   {
+      "Title": "Kevcai Nco Txog Yexus Txojkev Tuag",
+      "Description": "1. การประชุม อนุสรณ์ 1. The Memorial of Jesus Christ's Death"
+   },
+   {
+      "Title": "kevcai raus dej",
+      "Description": "1. บัพติสมา 1. baptism"
+   },
+   {
+      "Title": "khav",
+      "Description": "1. อวด 1. to brag"
+   },
+   {
+      "Title": "khav theeb",
+      "Description": "1. หยิ่ง, จองหอง 1. to be arrogant, to be haughty, conceited, self-important"
+   },
+   {
+      "Title": "khaws",
+      "Description": "1. เก็บ, เก็บสะสม 1. to collect, to gather"
+   },
+   {
+      "Title": "khawv koob",
+      "Description": "1. เวทมนตร์คาถา, เวทมนตร์, ไสยเวท 1. magic, the magical arts"
+   },
+   {
+      "Title": "khawv koob yees siv",
+      "Description": "1. เวทมนตร์คาถา, เวทมนตร์, ไสยเวท 1. magic, the magical arts"
+   },
+   {
+      "Title": "khiav",
+      "Description": "1. วิ่ง, หนี 1. to run"
+   },
+   {
+      "Title": "khib",
+      "Description": "1. อิจฉา, หึง 1. to be jealous (ดู/ see 'khib xeeb,' 'khib siab')"
+   },
+   {
+      "Title": "khib siab",
+      "Description": "1. อิจฉา, หึง 1. to be jealous (ดู/ see 'khib xeeb,' 'khib')"
+   },
+   {
+      "Title": "khib xeeb",
+      "Description": "1. อิจฉา, หึง 1. to be jealous (ดู/ see 'khib,' 'khib siab')"
+   },
+   {
+      "Title": "Khixatia",
+      "Description": "1. คริสเตียน 1. Christian"
+   },
+   {
+      "Title": "kho",
+      "Description": "1. รักษา, ซ่อมแซม, แก้ 1. to fix, to cure, to heal"
+   },
+   {
+      "Title": "khob",
+      "Description": "1. แก้ว, ถ้วย 1. a glass, a cup 2. เคาะ 2. to knock, to pound with the fist or hand on something."
+   },
+   {
+      "Title": "khoom",
+      "Description": "1. สิ่งของ 1. a thing, an object 2. ว่าง (ไม่ยุ่ง) 2. to be free, available, not busy."
+   },
+   {
+      "Title": "khov",
+      "Description": "1. แข็ง 1. to be solid, hard (ดู/see 'tawv')"
+   },
+   {
+      "Title": "khuv leej",
+      "Description": "1. สงสาร, สมเพช, เมตตา 1. to pity, to have mercy"
+   },
+   {
+      "Title": "khuv xim",
+      "Description": "1. เสียดาย 1. to regret"
+   },
+   {
+      "Title": "khuvleej",
+      "Description": "1. สงสาร, สมเพช, เมตตา 1. to pity, to have mercy"
+   },
+   {
+      "Title": "khuvxim",
+      "Description": "1. เสียดาย 1. to regret"
+   },
+   {
+      "Title": "khwv",
+      "Description": "1. ทำงานหนักๆ 1. to toil, to work extremely hard."
+   },
+   {
+      "Title": "kiag",
+      "Description": "1. อย่างทันที, อย่าง ฉับ พลัน, อย่างเด็ดขาด 1. immediately, suddenly, decisively"
+   },
+   {
+      "Title": "kiav txhab",
+      "Description": "1. บาดแผล, แผล 1. a wound, a gash, an open sore"
+   },
+   {
+      "Title": "kis",
+      "Description": "1. ระบาด, ระบาดตอ่คนอื่นๆ 1. (of disease) to spread, to spread to others, to break out mob kis luag โรคระบาดต่อคนอื่น - the disease spread to others ;"
+   },
+   {
+      "Title": "ko taw",
+      "Description": "1. เท้า (txhais) 1. the foot (txhais)"
+   },
+   {
+      "Title": "koj",
+      "Description": "1. คุณ 1. you"
+   },
+   {
+      "Title": "kom",
+      "Description": "1. ทำให้ 1. cause to happen. Thov kom nws tuaj thiab. ขอเพื่อทำให้เขามาด้วย - Ask so he will come too. 1. กล่าวโทษ, กล่าวหา, ใส่ร้าย 1. to accuse, to slander, to denounce . ;"
+   },
+   {
+      "Title": "koob",
+      "Description": "1. เข็ม 1. a needle"
+   },
+   {
+      "Title": "koob hmoov",
+      "Description": "1. พร, พระพร 1. a blessing 2. โชค, โชคชะตา 1. luck, fortune"
+   },
+   {
+      "Title": "koob hmoov",
+      "Description": "1. พร, พระพร 1. a blessing 2. โชค, โชคชะตา 1. luck, fortune"
+   },
+   {
+      "Title": "koob meej",
+      "Description": "1. ชื่อเสียง, เกียรติ 1. one's name, reputation"
+   },
+   {
+      "Title": "koob tsheej",
+      "Description": "1. การเฉลิมฉลอง, การฉลอง 1. a celebration"
+   },
+   {
+      "Title": "koog",
+      "Description": "1. พื้นที่, บริเวณ , เขต 1. area, territory"
+   },
+   {
+      "Title": "koom",
+      "Description": "1. ร่วม 1. to join with, to congregate with"
+   },
+   {
+      "Title": "koom siab",
+      "Description": "1. เป็น หนึ่ง เดียว, สามัคคีกัน, เข้ากัน (ตรง. ร่วมใจ) 1. to be united, of one heart (lit. to join hearts)"
+   },
+   {
+      "Title": "kotaw",
+      "Description": "1. เท้า (txhais) 1. the foot (txhais)"
+   },
+   {
+      "Title": "kov",
+      "Description": "1. แตะ 1. to touch"
+   },
+   {
+      "Title": "kub",
+      "Description": "1. ร้อน 1. to be hot, to be very hot 2. ทอง 2. gold, referring to the metal or the color (xim kub)."
+   },
+   {
+      "Title": "kub siab lug",
+      "Description": "1. กระตือรือร้น 1. to be zealous, on fire with zeal, eager, ardent"
+   },
+   {
+      "Title": "kuj",
+      "Description": "1. ด้วย, ก็ 1. also"
+   },
+   {
+      "Title": "kuv",
+      "Description": "1. ผม, ฉัน 1. I, me, my 1. わたし Kuv lub tsev. บ้านของฉัน - My house."
+   },
+   {
+      "Title": "kwj deg",
+      "Description": "1. ลำธาร 1. a stream, brook, creek"
+
+   },
+   {
+      "Title": "kws",
+      "Description": "1. ช่าง, ผู้เชี่ยวชาญ, นัก 1. a professional, a person who is skilled at, often used before a noun or verb to refer to a profession kws ntoo ช่างไม้ - carpenter"
+   },
+   {
+      "Title": "kws lij choj",
+      "Description": "1. ทนายความ 1. a lawyer"
+   },
+   {
+      "Title": "kwv",
+      "Description": "1. น้องชาย (tus) kwv 2. แบก"
+   },
+   {
+      "Title": "kwv luag",
+      "Description": "1. เพื่อน, สหาย 1. a friend, companion, pal, buddy. (ดู phoojywg - see 'phoojywg')"
+   },
+   {
+      "Title": "kwvluag",
+      "Description": "1. เพื่อน, สหาย 1. a friend, companion, pal, buddy. (ดู phoojywg - see 'phoojywg')"
+   },
+   {
+      "Title": "kwvtij",
+      "Description": "1. พี่น้อง 1. brothers, relatives; lit: 'older brother/ younger brother.'"
+   },
+   {
+      "Title": "kwvtij nkauj muam",
+      "Description": "1. พี่ๆ น้องๆ 1. brothers and sisters"
+   },
+   {
+      "Title": "kwvtij zej zog",
+      "Description": "1. เพื่อนบ้าน, คนจากหมู่บ้านเดียวกัน 1. neighbor, someone from the same village"
+   },
+   {
+      "Title": "laj",
+      "Description": "1. เย็นลง 1. to cool off, to cool down 2. เบื่อ, อิด 2. to be bored with or tired of something. kuv laj ua mov ฉันเบื่อในการทำข้าว - I'm tired of making rice"
+   },
+   {
+      "Title": "lam",
+      "Description": "1. อย่างเกียจคร้าน, ไม่ทุ่มเท, ไม่เอาใจใส่, 1. to do something lazily, to do something haphazardly, to do something halfheartedly. Kuv lam ua mov ฉันทำข้าวอย่างเกียจคร้าน - I just lazily made rice."
+   },
+   {
+      "Title": "lauj",
+      "Description": "1. ถอนออก, ดึงออก 1. to extract, to pull out (ดู/ see 'rho')"
+   },
+   {
+      "Title": "laum",
+      "Description": "1. ปกคลุม, หุ้ม, รุมล้อมอย่างอึดอัด 1. to cover, press in, surround uncomfortably"
+   },
+   {
+      "Title": "laus",
+      "Description": "1. แก่, ผู้ใหญ่ 1. to be old, to be an adult"
+   },
+   {
+      "Title": "lawd",
+      "Description": "1. แล้ว 1. already"
+   },
+   {
+      "Title": "lawm",
+      "Description": "1. แล้ว 1. already"
+   },
+   {
+      "Title": "lawv",
+      "Description": "1. พวกเขา. ใช้ถึงสามสิ่งหรือมากกว่านั้น 1. them, those. Used with three or more."
+   },
+   {
+      "Title": "leeg",
+      "Description": "1. คำลักษณนามสำหรับคนโดยเฉพาะ 1. Noun classifier used specifically with people. (ดู/ see 'leej')"
+   },
+   {
+      "Title": "leej",
+      "Description": "1. คำลักษณนามสำหรับคนโดยเฉพาะ 1. Noun classifier used specifically with people. (ดู/ see 'leeg')"
+   },
+   {
+      "Title": "leejtwg",
+      "Description": "1. ใคร 1. who, anyone"
+   },
+   {
+      "Title": "lees",
+      "Description": "1. ยอมรับ, รับ, รับรอง 1. to accept, admit"
+   },
+   {
+      "Title": "lees yuav",
+      "Description": "1. ยอมรับ, รับ, รับรอง 1. to accept, admit, approve of or agree with"
+   },
+   {
+      "Title": "leg",
+      "Description": "1. ปฏิบัติ, จัดการ 1. to handle, take care of"
+   },
+   {
+      "Title": "lem",
+      "Description": "1. เลี้ยว 1. to turn, to change course"
+   },
+   {
+      "Title": "li",
+      "Description": "1. เลย 1. used to express the thought of 'at all' (as in \"He does not know at all\") Nws tsis paub li เขาไม่รู้เลย - He doesn't know at all. ; 2. ของ 2. used to possession, that something belongs to someone or something. No yog nws li นี้ของเขา - This is his. ; 3. เช่น, อย่าง 3. as, like Yuav tsum ua li no. ต้องทำอย่างนี้ - You must do like this."
+   },
+   {
+      "Title": "liab",
+      "Description": "1. สีแดง 1. to be red, the color red 2. ลิง (tus) 2. the monkey (tus)"
+   },
+   {
+      "Title": "liab qab",
+      "Description": "1. เปลือยกาย 1. to be naked"
+   },
+   {
+      "Title": "liab siab",
+      "Description": "1. กระหาย, ปรารถนา 1. to long for, crave, desire"
+   },
+   {
+      "Title": "liam",
+      "Description": "1. กล่าวโทษ, กล่าวหา, ใส่ร้าย 1. to accuse, to slander, to denounce"
+   },
+   {
+      "Title": "liamsim",
+      "Description": "1. แตก, ถูกทำลายแล้ว 1. broken, ruined, destroyed"
+   },
+   {
+
+      "Title": "lig",
+      "Description": "1. สาย 1. to be late"
+   },
+   {
+      "Title": "lij choj",
+      "Description": "1. 1. กฎหมาย โดยทั่วไปใช้ร่วมกับ 'kev cai' เป็น 'kev cai lij choj' 1. A law. Generally used together with 'kev cai' as 'kev cai lij choj'"
+   },
+   {
+      "Title": "lim hiam",
+      "Description": "1. ชั่วร้าย, เลวร้าย 1. wicked, evil, villainous"
+   },
+   {
+      "Title": "limhiam",
+      "Description": "1. ชั่วร้าย, เลวร้าย 1. wicked, evil, villainous"
+   },
+   {
+      "Title": "lo",
+      "Description": "1. คำลักษณนามสำหรับคำโดยเฉพาะ 1. a noun classifier for single words 1. ติดกัน, แปะกัน 1. to stick together, cling together, stick to"
+   },
+   {
+      "Title": "loj",
+      "Description": "1. ใหญ่ 1. to be big, to be great"
+   },
+   {
+      "Title": "loj dua ntais",
+      "Description": "1. ยิ่งใหญ่ 1. the great, the almighty"
+   },
+   {
+      "Title": "lomzem",
+      "Description": "1. สนุก, สนุกสนาน 1. to be fun, to be enjoyable"
+   },
+   {
+      "Title": "loo",
+      "Description": "1. คำที่เพิ่มความนานให้คำกริยาบางคำเช่น 'ntev' 1. a word that adds intensity to some verbs like 'ntev'"
+   },
+   {
+      "Title": "Loos",
+      "Description": "1. โรมัน, กรุงโรม 1. Roman, Rome"
+   },
+   {
+      "Title": "los",
+      "Description": "1. มา 1. to come 2. หรือ 2. or"
+   },
+   {
+      "Title": "los xij",
+      "Description": "Txawm tias _______________ los xij 1. ถึงแม้ว่า, แม้ว่า 1. even though, even if, whether... or not. Txawm tias peb ntsib teeb meem los xij ถึงแม้ว่าเราเจอปัณหาหรือไม่เจอ - whether we have problems or not"
+   },
+   {
+      "Title": "lospav",
+      "Description": "1. เจ้านาย, นาย, นายจ้าง 1. A master, a boss, an owner"
+   },
+   {
+      "Title": "lossis",
+      "Description": "1. หรือ 1. or"
+   },
+   {
+      "Title": "lov",
+      "Description": "1. หัก, ขาด, สะบั้น 1. to break, snap, break into two pieces."
+   },
+   {
+      "Title": "luag",
+      "Description": "1. สรรพนามพิเศษสำหรับคนอื่น 1. A special pronoun that refers to 'others, other people.' 2. ยิ้ม 2. to smile luag ntxhi ยิ้ม - to smile 3. หัวเราะ 3. to laugh, to chuckle"
+   },
+   {
+      "Title": "luaj",
+      "Description": "1. เกี่ยว, ตัด 1. to cut down, slash or chop 2. ขนาดใหญ่เท่ากัน 2. to be as big as"
+   },
+   {
+      "Title": "luam tawm",
+      "Description": "1. พิมพ์ 1. to print"
+   },
+   {
+      "Title": "luav",
+      "Description": "1. กระต่าย (tus) 1. the rabbit (tus)"
+   },
+   {
+      "Title": "lub",
+      "Description": "1. คำลักษณะนามสำหรับคำทั่วไป. ดูตัวอย่างข้าวล่าง 1. General noun classifier for various or abstract nouns. See the below examples. lub tsev บ้าน - A house lub tsheb รถ - a car kuv lub hwjchim อำนาจของฉัน - My power, my authority."
+   },
+   {
+      "Title": "lub cuab lub yig",
+      "Description": "1. ครอบครัว 1. a family, the family"
+   },
+   {
+      "Title": "lub hwj huam dawb huv",
+      "Description": "1. พลังของพระเจ้า 1. the holy spirit"
+   },
+   {
+      "Title": "lub koom txoos",
+      "Description": "1. ประชาคม 1. a congregation"
+   },
+   {
+      "Title": "lub lim tiam",
+      "Description": "1. สัปดาห์, อาทิตย์ 1. a week"
+   },
+   {
+      "Title": "lub qab ntuj",
+      "Description": "1. ระบบ, โลกนี้, แปลตรงว่า ทุกอย่างภายใต้ฟ้าสวรรค์ 1. the system, the state of things, lit. everything under the heavens."
+   },
+   {
+      "Title": "lub tsev ntaub sib ntsib",
+      "Description": "1. เต็นท์เข้าเฝ้า 1. The Tent of Meeting"
+   },
+   {
+      "Title": "lub tuam tsev",
+      "Description": "1. วิหาร 1. a temple, the temple"
+   },
+   {
+      "Title": "lub vaj kaj siab",
+      "Description": "1. อุทยาน 1. a paradise, the paradise"
+   },
+   {
+      "Title": "luj",
+      "Description": "1. ชั่งน้ำหนัก 1. to weigh, to weigh out."
+   },
+   {
+      "Title": "luj taws",
+      "Description": "1. ส้นเท้า 1. the heel"
+   },
+   {
+      "Title": "luj tshib",
+      "Description": "1. ข้อศอก, ศอก 1. the elbow"
+   },
+   {
+      "Title": "lus",
+      "Description": "1. คำ 1. word, a word"
+   },
+   {
+      "Title": "lus qhuab qhia",
+      "Description": "1. การบรรยาย (zaj) 1. a discourse, a talk, a speech (zaj)"
+   },
+   {
+      "Title": "luv",
+      "Description": "1. สั้น, ไม่ยาว 1. to be short, not long"
+   },
+   {
+      "Title": "lwj",
+      "Description": "1. เน่าเสีย, เน่า 1. to rot, rotten"
+   },
+   {
+      "Title": "lwj siab",
+      "Description": "1. หัวอกหัก, เศร้า, โศกเศร้า 1. broken-hearted, sad, depressed"
+   },
+   {
+      "Title": "lwm",
+      "Description": "1. อื่น ๆ, ถัดไป 1. other, different, another lwm tus คนอื่น ๆ - Other people, another person ; 2. เวร, รอบ, ที 2. a turn, a round"
+   },
+   {
+      "Title": "maim",
+      "Description": "1. ชิ่ง, หลบ 1. to dodge, to evade"
+   },
+   {
+      "Title": "maj",
+      "Description": "1. คำอุทานที่เพิ่มความตื่นเต้น, ความสาหัส 1. an exclamatory particle that adds intensity or excitement. Saib ดู - look Saib maj ดูสิ ! - Look! 2. รีบเร่ง, รีบร้อน 2. to do something in a hurry, hurriedly Nws maj mus tsev. เขากลับบ้านอย่างรีบร้อน - He wen home in a hurry."
+   },
+   {
+      "Title": "mam",
+      "Description": "1. จะ, แล้วก็, คำที่แสดงว่ามีอะไรเกิดขึ้นแล้วจะมีอะไรอีกเกิดขึ้นหลังจากนั้น 1. ...and then. A particle showing that something has happened and then something will happen afterward. ;"
+   },
+   {
+      "Title": "mas",
+      "Description": "1. คำว่า 'mas' ใช้เพื่อบอกข้อมูลใหม่เกี่ยวกับหัวข้อที่ระบุไว้ก่อนหน้า 'mas' คำก่อนหน้า 'mas' คือหัวข้อและคำถัดไปจาก 'mas' เป็นข้อมูลใหม่หรือความคิดเห็นซึ่งเสริมหัวข้อ ดูตัวอย่างด้านล่าง 1. The word 'mas' is used to share new information about the previously stated topic. The words preceding 'mas' are the topic and the words following 'mas' are the new information or the comment. See example below. ํYog nws tuaj, mas koj hais rau kuv' ถ้าเขามาแล้ว (mas) บอกฉันหน่อย - If he comes (mas) let me know."
+   },
+   {
+      "Title": "me",
+      "Description": "1. เล็ก 1. to be small"
+   },
+   {
+      "Title": "me ntxhais",
+      "Description": "1. ลูกสาว, เด็กผู้หญิง (คำว่า ‘me’ เสริมความหมายว่าเธออายุน้อย) 1. daughter, a young girl (the word ‘me’ implies that she is young)"
+   },
+   {
+      "Title": "me tub",
+      "Description": "1. เด็กผู้ชาย, บุตรชาย ( คำว่า 'me' เสริมความหมายว่าเขาอายุน้อย) 1. a son, a boy (the word 'me' implies that he is young)"
+   },
+   {
+      "Title": "meej",
+      "Description": "1. ชัด, ชัดเจน 1. to be clear, evident, easy to see or understand"
+   },
+   {
+      "Title": "mentsis",
+      "Description": "1. นิดหน่อย, เล็กน้อย 1. a little bit, a little"
+   },
+   {
+      "Title": "mentxhais",
+      "Description": "1. ลูกสาว, เด็กผู้หญิง (คำว่า ‘me’ เสริมความหมายว่าเธออายุน้อย) 1. daughter, a young girl (the word ‘me’ implies that she is young)"
+   },
+   {
+      "Title": "menyuam",
+      "Description": "1. เด็ก ๆ, ลูก ๆ 1. a child, children"
+   },
+   {
+      "Title": "metub",
+      "Description": "1. เด็กผู้ชาย, บุตรชาย ( คำว่า 'me' เสริมความหมายว่าเขาอายุน้อย) 1. a son, a boy (the word 'me' implies that he is young)"
+   },
+   {
+      "Title": "metub menyuam",
+      "Description": "1. เด็ก ๆ, ลูก ๆ 1. children"
+   },
+   {
+      "Title": "mexiyas",
+      "Description": "1. พระ มาซีฮา 1. The Messiah"
+   },
+   {
+      "Title": "mis",
+      "Description": "1. นม 1. milk 2. เต้านม (lub) 2. the breast (lub)"
+   },
+   {
+      "Title": "mlom",
+      "Description": "1. รูปเทพ, รูปเคารพ (tus) 1. an idol, an image of worship (tus)"
+   },
+   {
+      "Title": "mloog",
+      "Description": "1. ฟัง 1. to listen"
+   },
+   {
+      "Title": "mloog lus",
+      "Description": "1. เชื่อฟัง 1. to be obedient"
+   },
+   {
+      "Title": "mob",
+      "Description": "1. เจ็บ, ป่วย 1. to hurt, to be painful, to be sick"
+   },
+   {
+      "Title": "mob siab",
+      "Description": "1. เป็นห่วง 1. to be concerned 2. กระตือรือร้น 2. to be zealous, ardent, serious about"
+   },
+   {
+      "Title": "mom",
+      "Description": "1. หมวก 1. a hat, a helmet"
+   },
+   {
+      "Title": "moos",
+      "Description": "1. นาฬิกา 1. a watch or clock 2. นิคม (จากภาษาลาว) 2. a big city, a settlement (borrowed from Lao language)"
+   },
+   {
+      "Title": "mos",
+      "Description": "1. นิ่ม, นุ่ม 1. to be soft, tender"
+   },
+   {
+      "Title": "mos muag",
+      "Description": "1. นิ่ม, นุ่ม 1. to be soft, tender"
+   },
+   {
+      "Title": "mov",
+      "Description": "1. ข้าว, อาหาร 1. cooked rice, also used to mean 'food.' (ดู/ see 'zaub mov')"
+   },
+   {
+      "Title": "muab",
+      "Description": "1. ให้ 1. to give 2. เอามา 2. to take"
+   },
+   {
+      "Title": "muag",
+      "Description": "1. ขาย 1. to sell 2. ใบหน้า (ดู 'qhov muag') 2. the face (see 'qhov muag')"
+   },
+   {
+      "Title": "muaj",
+      "Description": "1. มี 1. to have, to be (as in 'there will be' something. See example below.) Kuv muaj ob tug(s) qaib ฉันมีไก่สองตัว - I have to chickens. Yuav muaj kev sib txoos. จะมีการประชุม - There will be a meeting."
+   },
+   {
+      "Title": "muaj cai",
+      "Description": "1. มีสิทธิ์ 1. to have the right, to have the authority Nws tsis muaj cai เขาไม่มีสิทธิ - He doesn't have the right."
+   },
+   {
+      "Title": "muam",
+      "Description": "1. น้องสาว, พี่สาว. ผู้ชายใช้คำนี้กับผู้หญิง แต่โดยปกติผู้หญิงจะไม่ใช้ (tus) 1. Sister. Used by males in reference to females, but generally not used by females in reference to other females. (tus) (ดู/see 'viv ncaus')"
+   },
+   {
+      "Title": "mus",
+      "Description": "1. ไป 1. to go"
+   },
+   {
+      "Title": "mus ib txhiab ib txhis",
+      "Description": "1. ตลอดไป 1. forever"
+   },
+   {
+      "Title": "mus ib txhis",
+      "Description": "1. ตลอดไป 1. forever"
+   },
+   {
+      "Title": "mus li",
+      "Description": "1. ต่อไป, เรื่อยไป 1. to go on continuously"
+   },
+   {
+      "Title": "nab",
+      "Description": "1. งู (tus) 1. a snake (tus)"
+   },
+   {
+      "Title": "nag",
+      "Description": "1. ฝน 1. rain"
+   },
+   {
+      "Title": "nas",
+      "Description": "1. หนู (tus nas) 1. rat, mouse (tus nas)"
+   },
+   {
+      "Title": "ncaj",
+      "Description": "1. ตรง 1. to be straight (ดู/see 'ncaj ncees') 2. ยุติธรรม, ซื่อสัตย์ 2. to be fair, to be righteous peb yuav tsum coj ncaj เราต้องยุติธรรม - we must be fair"
+   },
+   {
+      "Title": "ncaj ncees",
+      "Description": "1. ชอบธรรม, ยุติธรรม, ซื่อสัตย์ 1. to be fair, to be righteous"
+   },
+   {
+      "Title": "ncav",
+      "Description": "1. ยืดออก, เอื้อมไป 1. to stretch out, reach toward"
+   },
+   {
+      "Title": "nceeg vaj",
+      "Description": "1. ราชอาณาจักร (lub) nceeg vaj 1. a kingdom (lub) nceeg vaj"
+   },
+   {
+      "Title": "ncej",
+      "Description": "1. เสา 1. a post or pillar"
+   },
+   {
+      "Title": "ncej puab",
+      "Description": "1. ต้นขา, โคนขา 1. the thigh"
+   },
+   {
+      "Title": "ncig",
+      "Description": "1. รอบ 1. to go around, to circle, around"
+   },
+   {
+      "Title": "nco",
+      "Description": "1. จำ 1. to remember 2. คิดถึง 2. to miss, to think of"
+   },
+   {
+      "Title": "ncua",
+      "Description": "1. มีอยู่ตามเวลาหรือใช้เวลาขนาดใน 1. to encompass or cover a period of time or distance."
+   },
+   {
+      "Title": "ncuav",
+      "Description": "1. พายแบบม้งที่ประกอบด้วยข้าวเหนียวที่ถูกทุบๆ บางครั้งคำนี้ถูกนำมาใช้แทนคำว่าขนมปังซึ่งไม่มีในภาษาม้ง 1. A hmong sticky rice cake made by pounding out sticky rice untill it is smooth. Sometimes this word is used instead of 'bread,' a word that the Hmong language does not have."
+   },
+   {
+      "Title": "neb",
+      "Description": "1. พวกคุณ (พูดถึงสองคนโดยเฉพาะ) 1. You two (referring specifically to two people)"
+   },
+   {
+      "Title": "neeg",
+      "Description": "1. คน, มนุษย์ 1. person, human"
+   },
+   {
+      "Title": "neej",
+      "Description": "1. ชีวิต (ใช้กับการดำเนินชีวิต, ไม่ไช่พลัวชีววิต) 1. life (used with one's day to day life, not force of life that is opposite of death.)"
+   },
+   {
+      "Title": "nees",
+      "Description": "1. ม้า (tus) 1. the horse (tus)"
+   },
+   {
+      "Title": "nej",
+      "Description": "1. พวกคุณ (ใช้เมื่อพูดถึงสามคนขึ้นไป) 1. you, you all ( used when speaking of 3 or more people)"
+   },
+   {
+      "Title": "niaj",
+      "Description": "1. แต่ละ 1. each, each and every"
+   },
+   {
+      "Title": "Niaj hnub no",
+      "Description": "1. ในปัจจุบันนี้, ในทุกวันนี้ 1. these days, nowadays"
+   },
+   {
+      "Title": "niam",
+      "Description": "1. แม่ 1. mother, mom"
+   },
+   {
+      "Title": "niam no",
+      "Description": "1. ขณะนี้ 1. right now, nowadays, at the moment"
+   },
+   {
+      "Title": "nim no",
+      "Description": "1. ในขณะนี้, ตอนนี้, เดี๋ยวนี้ 1. at the moment, right now, presently"
+   },
+   {
+      "Title": "nimno",
+      "Description": "1. ขณะนี้, ตอนนี้, ในปัจจุบันนี้ 1. right now, nowadays"
+   },
+   {
+      "Title": "nkag",
+      "Description": "1. เข้า 1. to enter, to go into 2. คลาน, เลื้อยคลาน 2. to crawl"
+   },
+   {
+      "Title": "nkag siab",
+      "Description": "1. เข้าใจ 1. to understand, comprehend"
+   },
+   {
+      "Title": "nkaug",
+      "Description": "1. แทง, เจาะ 1. to pierce, to stab"
+   },
+   {
+      "Title": "nkauj",
+      "Description": "1. เกี่ยวกับผู้หญิง 1. word that infers the feminine quality, makes the connected word feminine. hluas หนู่ม - young person hluas nkauj สาว - young woman 2. เพลง (zaj) 2. music, a song (zaj)"
+   },
+   {
+      "Title": "nkaum",
+      "Description": "1. ซ่อน, ซ่อนตัว 1. to hide, to conceal"
+   },
+   {
+      "Title": "nkaus",
+      "Description": "1. คำที่ช่วยเพิ่มความรุนแรง, ความจริงจัง, หรือความสาหัสของคำกริยาที่มาก่อน 1. a word that increases the seriousness or intensity of the preceding verb"
+   },
+   {
+      "Title": "nkawd",
+      "Description": "1. พวกเขา... พูดถึงแค่สองคนเท่านั้น 1. them, those, only referring to two people or things."
+   },
+   {
+      "Title": "nkawm",
+      "Description": "1. คู่ 1. a couple, a pair 2. ใช้กับ 'nkawm' หมายถึงคู่สมรส 2. used with 'nkawm' it means a marriage mate. nrhiav txij nrhiav nkawm เสาะ หาคู่สมรส / to search for a marriage mate."
+   },
+   {
+      "Title": "nkeeg",
+      "Description": "1. เหนื่อย 1. to be tired 2. เกียจคร้าน 2. to be lazy (ดู/see 'tub nkeeg')"
+   },
+   {
+      "Title": "nkoj",
+      "Description": "1. เรือ 1. a boat, a ship"
+   },
+   {
+      "Title": "nkoj txwg",
+      "Description": "1. เรือ 1. a boat"
+   },
+   {
+      "Title": "nkuaj",
+      "Description": "1. คุก, กรง 1. a cage, a fence (to keep animals in). Sometimes used to refer to a prison."
+   },
+   {
+      "Title": "no",
+      "Description": "1. นี้ 1. this 2. หนาว 2. to be cold"
+   },
+   {
+      "Title": "noj",
+      "Description": "1. กิน, ทาน 1. to eat"
+   },
+   {
+      "Title": "nom",
+      "Description": "1. ข้าราชการ, นักการเมือง 1. a public official, a politician"
+   },
+   {
+      "Title": "nom tswv",
+      "Description": "1. นักเมือง, ข้าหลวง, เจ้า 1. politicians, governors, rulers (ดู/see 'nom,' 'tswv.')"
+   },
+   {
+      "Title": "noob",
+      "Description": "1. เมล็ด 1. a seed"
+   },
+   {
+      "Title": "noob neej",
+      "Description": "1. มนุษยชาติ 1. mankind"
+   },
+   {
+      "Title": "npaj",
+      "Description": "1. เตรียม 1. to prepare"
+   },
+   {
+      "Title": "npau suav",
+      "Description": "1. ความฝัน, ฝัน 1. a dream, to dream"
+   },
+   {
+      "Title": "npau taws",
+      "Description": "1. กราดเกรี้ยว, โกรธ, โมโห 1. to be furious, to be angry"
+   },
+   {
+      "Title": "npaum",
+      "Description": "1. เท่ากับ 1. equal to, equal, same as npaum li cas เท่าไร - how much/ equal to how much sib npaug เท่ากัน - to be equal to eachother ob npaum สองเท่า two times/ twice as much ;"
+   },
+   {
+      "Title": "npe",
+      "Description": "1. ชื่อ 1. a name"
+   },
+   {
+      "Title": "nplig",
+      "Description": "1. ปลอบโยน 1. to comfort (ดู/ see 'nplij')"
+   },
+   {
+      "Title": "nplij",
+      "Description": "1. ปลอบโยน 1. to comfort (ดู/ see 'nplig')"
+   },
+   {
+      "Title": "nplua mias",
+      "Description": "1. อุดมสมบูรณ์ 1. plentiful, bountiful"
+   },
+   {
+      "Title": "nplua nuj",
+      "Description": "1. รวย, ร่ำรวย, มั่งคั่ง 1. To be rich, wealthy."
+   },
+   {
+      "Title": "npluag",
+      "Description": "1. เปลือกข้าว, ธัญดัจ 1. The rice husk, the outer hull of a grain of rice."
+   },
+   {
+      "Title": "npuab",
+      "Description": "1. พิงหรือขึ้นกับ 1. to rest or lean up against"
+   },
+   {
+      "Title": "npuab siab",
+      "Description": "1. ภักดี, ซื่อสัตย์, พิงหรือยันหัวใจขึ้นกับ 1. loyal, to rest or lean the heart up against"
+   },
+   {
+      "Title": "nqa",
+      "Description": "1 . พา, ยก 1. to carry"
+   },
+   {
+      "Title": "nqaij",
+      "Description": "1. เนื้อ 1. meat or flesh"
+   },
+   {
+      "Title": "nqe",
+      "Description": "1. ราคา, ค่า, ความคุ้มค่า 1. a price, a value 2. ข้อ, คำกลอน 2. a verse, a stanza, a small section"
+   },
+   {
+      "Title": "nqe zog",
+      "Description": "1. ค่าจ้าง 1. wage"
+   },
+   {
+      "Title": "nqes",
+      "Description": "1. ลงมา 1. to descend 2. ราคา, ค่า, ความคุ้มค่า (จาก 'nqe') 2. a price, a value (tone change from 'nqe') 3. ข้อ, คำกลอน (จาก 'nqe') 3. a verse, a stanza, a small section (tone change from 'nqe') ;"
+   },
+   {
+      "Title": "nqhis",
+      "Description": "1. กระหายน้ำ, กระหาย 1. to thirst, to thirst for"
+   },
+   {
+      "Title": "nqua hu",
+      "Description": "1. เรียก, เรียกเชิญมา 1. to call, to invite, to summon"
+   },
+   {
+      "Title": "nquag",
+      "Description": "1. ขยันขันแข็ง, อุตสาหะ 1. hard-working, industrious"
+   },
+   {
+      "Title": "nqus",
+      "Description": "1. ดูด 1. to suck, to inhale"
+   },
+   {
+      "Title": "nrab",
+      "Description": "1. ครึ่ง 1. half, a half"
+   },
+   {
+      "Title": "nrad",
+      "Description": "( ดู nram, see 'nram') 1. ลงเนิน, ตกต่ำ. คำชี้ที่หมายถึงอะไรที่อยู่ลงเนิน 1. downhill, down there. A pointing word that refers to something downhill. Nws nyob nrad เขาอยู่ที่นั้น (ลงเนิน) - He is over there (downhill)"
+   },
+   {
+      "Title": "nram",
+      "Description": "( ดู nrad, see 'nrad') 1. ลงเนิน, ตกต่ำ. คำชี้ที่หมายถึงอะไรที่อยู่ลงเนิน 1. downhill, down there. A pointing word that refers to something downhill. Nws nyob nrad เขาอยู่ที่นั้น (ลงเนิน) - He is over there (downhill) ; ;"
+   },
+   {
+      "Title": "nram ntej",
+      "Description": "1 . ก่อนหน้านี้, เมื่อก่อน 1 . previously, earlier, the time before"
+   },
+   {
+      "Title": "nraud",
+      "Description": "1. ด้านนอก, ภายนอก 1. outside, the outside of something Nws nyob sab nraud. เขาอยู่ด้านนอก - He is outside (ดู/ see 'nraum')"
+   },
+   {
+      "Title": "nraug",
+      "Description": "1. เกี่ยวกับผู้ชาย 1. refers to the masculine, infers the masculine quality to the connected word. hluas หนู่ม - young person hluas nraug หนุ่มน้อย - young man"
+   },
+   {
+      "Title": "nraum",
+      "Description": "1. ด้านนอก, ภายนอก 1. outside, the outside of something Nws nyob sab nraum lub tsev เขาอยู่นอกบ้าน - He is outside of the house (ดู/ see 'nraud') ;"
+   },
+   {
+      "Title": "nrhiav",
+      "Description": "1. หา, ค้นหา 1. to find, to search for, to seek"
+   },
+   {
+      "Title": "nrob qaum",
+      "Description": "1. หลัง , ส่วนในร่างกาย ... ส่วนบนของหลัง 1. the upper back, the back section of body roughly level to the shoulder blades"
+   },
+   {
+      "Title": "nrog",
+      "Description": "1. ด้วยกัน, กับ 1. with Kuv yuav nrog koj mus. ผมจะไปกับคุณ - I will go with you."
+   },
+   {
+      "Title": "nrog nraim",
+      "Description": "1. ติดกับ, เดินกับ, 1. to be close beside, to closely with, to walk with."
+   },
+   {
+      "Title": "nroog",
+      "Description": "1. เมืองใหญ่, มหานคร 1. a very large city, a metropolis"
+   },
+   {
+      "Title": "nrov",
+      "Description": "1. ดัง 1. to be loud, noisy"
+   },
+   {
+      "Title": "nruab",
+      "Description": "1. ที่กลาง 1. the middle (ดู/see 'nruab nrab')"
+   },
+   {
+      "Title": "nruab nrab",
+      "Description": "1. ระหว่าง, ท่ามกลาง 1. the middle, among (ดู/see 'nruab')"
+   },
+   {
+      "Title": "nruab ze",
+      "Description": "1. ญาติ, พี่น้อง 1. a relative, family"
+   },
+   {
+      "Title": "ntag",
+      "Description": "1. ตรงนั้น, เผง 1. exactly that! Yog tus ntawd. เป็นคนนั้น - It's that person. Yog tus ntawd ntag! เป็นคนนั้นแหละ - It's THAT person!"
+   },
+   {
+      "Title": "ntaiv",
+      "Description": "1. บันได 1. a ladder, stairs,"
+   },
+   {
+      "Title": "ntau",
+      "Description": "1. จำนวนมาก 1. many, a lot"
+   },
+   {
+      "Title": "ntaub",
+      "Description": "1. ผ้า. (daim) 1. a cloth or fabric. (daim)"
+   },
+   {
+      "Title": "ntaub ntawv",
+      "Description": "1. วรรณกรรม, เอกสาร, หนังสือต่างๆ 1. books, literature, paperwork"
+   },
+   {
+      "Title": "ntaus",
+      "Description": "1. ตี, สู้ 1. to beat, to strike, to forge, fight with 2. เด็ด 2. to play as in to to pick or pluck (as in a guitar), to 'strike' a musical instrument. 3. การสร้างมิตรภาพ 3. to 'forge' a friendship ntaus phoojywg การสร้างมิตรภาพ - 'forge' a friendship"
+   },
+   {
+      "Title": "ntaus nkauj",
+      "Description": "1. เล่นดนตรี 1. to play music"
+   },
+   {
+      "Title": "ntaus thawj",
+      "Description": "1. เป็ยชนวน, เป็ยตัวการ. แปลตรงตัวว่า ตัวที่ตีก่อน 1. to be the starter, literally, 'the one who strikes first.'"
+   },
+   {
+      "Title": "ntawd",
+      "Description": "1. นั่น 1. there, that, referring to things relatively close"
+   },
+   {
+      "Title": "ntawm",
+      "Description": "1. (คำชี้) ที่, นั้น 1. (pointing word) that, that there. Nws nyob ntawm rooj zaum. มันอยู่ที่เก้าอี้ - It is over at the chair. Nws nyob ntawd มันอยู่ที่นั้น - It's over there. 2. มาจาก, จาก 2. from Neeg uas yug ntawm pojniam... มนุษย์ที่เกิดจากผู้หญิง... - Man who is born from woman."
+   },
+   {
+      "Title": "ntaws",
+      "Description": "1. สะดือ, นาภี 1. the navel, the belly button"
+   },
+   {
+      "Title": "ntawv",
+      "Description": "1. อักษร, กระดาษ 1. a letter (of the alphabet), paper"
+   },
+   {
+      "Title": "nte",
+      "Description": "1. ผิง, อบอุ่นตัวเองโดยไฟ 1. to warm oneself by a fire or by means of fire."
+   },
+   {
+      "Title": "ntej",
+      "Description": "1. ก่อน มักจะต้องใช้กับคำอื่นๆ 2. to be before... often must be used combined with another word Ua ntej ก่อน - before"
+   },
+   {
+      "Title": "ntes",
+      "Description": "1. จับกุม 1. to arrest, capture, or seize"
+   },
+   {
+      "Title": "ntev",
+      "Description": "1. ขม 1. to be bitter"
+   },
+   {
+      "Title": "ntev dhawv",
+      "Description": "1. นานมาก 1. very long"
+   },
+   {
+      "Title": "nthuav",
+      "Description": "1. คลี่, แบ 1. to unfold, unfurl, spread out, to reveal, expose"
+   },
+   {
+      "Title": "ntiajteb",
+      "Description": "1. โลก 1. the world, the earth"
+   },
+   {
+      "Title": "ntiav",
+      "Description": "1. จ่ายเงิน, จ้าง 1. to pay or employ 2. ตื้น, ไม่ลึก 2. to be shallow, not deep."
+   },
+   {
+      "Title": "nto",
+      "Description": "1. ถ่ม, ถุย, ถุยน้ำลาย 1. to spit, to spit out of the mouth. 2. ขึ้นไปถึงจุดสูงสุดหรือยอด 2. to ascend to the highest point."
+   },
+   {
+      "Title": "nto npe",
+      "Description": "1. มีชื่อเสียง, เป็นที่รู้จักกันดี 1. to be famous, to be well known"
+   },
+   {
+      "Title": "ntog",
+      "Description": "1. ล้มลง, หกล้ม 1. to fall down, to fall on the ground"
+   },
+   {
+      "Title": "ntoo",
+      "Description": "1. ไม้ 1. wood 2. ต้นไม้ (tsob) 2. a tree (tsob)"
+   },
+   {
+      "Title": "ntsaj",
+      "Description": "1. คราง, ครวญ คราง 1. to moan, to groan"
+   },
+   {
+      "Title": "ntse",
+      "Description": "1. ฉลาด 1. to be smart, sharp, intelligent. 2. คม 2. to be sharp (of a blade), not dull."
+   },
+   {
+      "Title": "ntseeg",
+      "Description": "1. เชื่อ 1. to believe"
+   },
+   {
+      "Title": "ntsej",
+      "Description": "1. หู 1. the ear (ดู/ see \"qhov ntsej\", \"pob ntseg\")"
+   },
+   {
+      "Title": "ntsev",
+      "Description": "1. เกลือ 1. Salt"
+   },
+   {
+      "Title": "ntshai",
+      "Description": "1. กลัว, เกรง 1. to fear, to be afraid of"
+   },
+   {
+      "Title": "ntshav",
+      "Description": "1. เลือด 1. blood"
+   },
+   {
+      "Title": "ntshaw",
+      "Description": "1. ปรารถนา, กระหาย, ต้องการ 1. to desire, to crave, to want, to covet"
+   },
+   {
+      "Title": "ntsia",
+      "Description": "1. จ้องมอง, มองดู 1. to stare at, to gaze at"
+   },
+   {
+      "Title": "ntsiab",
+      "Description": "1. ศูนย์, จุดหลัก, เนื้อหา 1. the center, the main point, the main issue"
+   },
+   {
+      "Title": "ntsib",
+      "Description": "1. พบ, เจอ 1. to meet, to encounter"
+   },
+   {
+      "Title": "ntso",
+      "Description": "1. คำที่เพิ่มน้ำหนักหรือความรุนแรงให้กับคำกริยาที่นำหน้า มักใช้เป็น 'rau siab ntso' 1. a word that adds weight or intensity to the verb that precedes it. Often used as 'rau siab ntso'"
+   },
+   {
+      "Title": "ntsoov",
+      "Description": "1. คำคุณศัพท์ที่บ่งบอกถึงความรุนแรง มักจะใช้หลังคำแบบนี้ xav, ntsia, nco, saib, tos 1. a word used after a verb that is used to the intensity or focus of the verb. Often used after xav, ntsia, nco, saib, tos"
+   },
+   {
+      "Title": "ntsuav",
+      "Description": "1. คำวิเศษณ์ที่เพิ่มความแย่ 1. an adverb that increases the sense of miserableness or awfulness of the verb that came before it."
+   },
+   {
+      "Title": "ntsug",
+      "Description": "1. อย่างตั้งตรง มักใช้กับคำว่า sawv 1. upright, vertical, usually paired with sawv sawv ntsug ยืนขึ้นอย่างตั้งตรง - stand upright"
+   },
+   {
+      "Title": "ntsuj",
+      "Description": "1. จิตวิญญาณ, ผี; มักจะใช้ 'ntsuj plig' ด้วยกัน 1. a spirit, a ghost, a soul; often used together as 'ntsuj plig' (ดู/ see 'plig') 2. คำลักษณนามนามสงคราม 2. noun classifier for a war, a battle ntsuj rog สงคราม - a war ;"
+   },
+   {
+      "Title": "ntsuj rog",
+      "Description": "1. สงคราม 1. a war (ดู/see 'ntsuj')"
+   },
+   {
+      "Title": "ntsws",
+      "Description": "1. ปอด 1. the lungs"
+   },
+   {
+      "Title": "ntu",
+      "Description": "1. ช่วงเวลา, ส่วน 1. a period of time, a section"
+   },
+   {
+      "Title": "ntuas",
+      "Description": "1. แนะนำ, ตำหนิ 1. to council, to criticize, to correct with words"
+   },
+   {
+      "Title": "ntug",
+      "Description": "1. ฝั่ง 1. the bank or edge (of a river) 2. การเปลี่ยนแปลงวรรณยุกต์จาก 'ntuj' 2. tone change from 'ntuj' (ดู/ see 'ntuj')"
+   },
+   {
+      "Title": "ntuj",
+      "Description": "1. ท้องฟ้า, ฟ้า 1. the sky, the heavens"
+   },
+   {
+      "Title": "ntxa",
+      "Description": "1. หลุมฝังศพ, ที่ฝังศพ, สุสาน (qhov, lub) 1. grave, tomb, burial site, cemetery (qhov, lub)"
+   },
+   {
+      "Title": "ntxeev",
+      "Description": "1. พลิก 1. to flip, turn over lub tsheb ntxeev pem kev รถ พลิก ที่ถนน - The car flipped over on the road."
+   },
+   {
+      "Title": "ntxeev dua siab tshiab",
+      "Description": "1. กลับ ใจ 1. to repent"
+   },
+   {
+      "Title": "ntxeev siab",
+      "Description": "1. ทรยศ, กบฎ 1. to betray, turn against, apostatize (ดู fav xeeb; see 'fav xeeb')"
+   },
+   {
+      "Title": "ntxhais",
+      "Description": "1. ลูกสาว, เด็กผู้หญิง 1. daughter, a young girl"
+   },
+   {
+      "Title": "ntxhais nkauj",
+      "Description": "1. สาวพรหมจารี 1. a virgin"
+   },
+   {
+      "Title": "ntxhias",
+      "Description": "1. คำที่เพิ่มน้ำหนักให้กับคำกริยาบางคำ 1. a word that adds weight or intensity to some specific verbs."
+   },
+   {
+      "Title": "ntxhov",
+      "Description": "1. ยุ่ง, เครียด, ซับซ้อน 1. to be messy, complicated, confused"
+   },
+   {
+      "Title": "ntxhov siab",
+      "Description": "1. วิตกกังวล, ตึงเครียด 1. to worry, to be stressed"
+   },
+   {
+      "Title": "ntxhuav",
+      "Description": "1. มีขนมาก ๆ 1. to be hairy"
+   },
+   {
+      "Title": "ntxias",
+      "Description": "1. ล่อหลอก, ชักนำ 1. to seduce, to deceive, to persuade"
+   },
+   {
+      "Title": "ntxiv",
+      "Description": "1. เพิ่มขึ้น 1. to increase, to add"
+   },
+   {
+      "Title": "ntxiv ntxhua",
+      "Description": "1. ดูแล , แลเหลียว, ดูแลและช่วยเหลือตามความจำเป็นของไครหรืออะไร 1. to take care of, to look after the needs of"
+   },
+   {
+      "Title": "ntxub",
+      "Description": "1. เกลียด 1. to hate"
+   },
+   {
+      "Title": "ntxwg nyoog",
+      "Description": "1. ซาตาน, มาร 1. the Devil, an evil monster in Hmong folktale"
+   },
+   {
+      "Title": "nug",
+      "Description": "1. ถาม 1. to ask, to question, to inquire"
+   },
+   {
+      "Title": "nuj nqes",
+      "Description": "1. ค่า, คุ้มค่า (เปลี่ยนเสียงจาก ‘nqe’) 1. a price, a value (tone change from 'nqe')"
+   },
+   {
+      "Title": "num",
+      "Description": "(ดู/ see 'haujlwm') (บางครั้งเขียนว่า/ sometimes written 'dej num') 1. งาน, ธุรกิจ 1. n. work, business Ua num. ทำงาน - do work"
+   },
+   {
+      "Title": "nus",
+      "Description": "1. น้องชายหรือพี่ชาย เมื่อผู้พูดเป็นผู้หญิงเฉพาะ ถ้าผู้พูดเป็นผู้ชายเขาควรใช้คำว่า 'kwv' หรือ 'tij laug.' 1. The word for a brother, spoken by a female. For male speakers, see 'kwv' and 'tij laug.'"
+   },
+   {
+      "Title": "nus muag",
+      "Description": "1. พี่ชายหรือน้องชายและพี่สาวหรือน้องสาว 1. brother and sister"
+   },
+   {
+      "Title": "nws",
+      "Description": "1. เขา, มัน 1. He, she, it"
+   },
+   {
+      "Title": "nyab",
+      "Description": "1. สะใภ้ 1. daughter in law 2. ท่วม 2. to flood"
+   },
+   {
+      "Title": "nyab xeeb",
+      "Description": "1. ปลอดภัย, ไร้ภัย 1. to be safe, without danger or disturbance"
+   },
+   {
+      "Title": "nyeem",
+      "Description": "1. อ่าน 1. to read"
+   },
+   {
+      "Title": "nyem",
+      "Description": "1. เค้น, คั้น 1. to squeeze, to choke"
+   },
+   {
+      "Title": "nyiag",
+      "Description": "1. ขโมย, ทำอะไรอย่างลับๆ 1. to steal 2. ทำอะไรอย่างลับๆ 2. to do something secretively, do something in a secretive way"
+   },
+   {
+      "Title": "nyiaj",
+      "Description": "1. เงิน 1. money, silver (ดู/ see 'nyiaj txiag') 2. ทน, อดกลั้น 2. to endure, to tolerate, to bear"
+   },
+   {
+      "Title": "nyiaj txiag",
+      "Description": "1. เงิน 1. money, silver (ดู/ see 'nyiaj')"
+   },
+   {
+      "Title": "nyiaj xiab",
+      "Description": "1. สินบน, ส่วย 1. bribe money"
+   },
+   {
+      "Title": "nyiam",
+      "Description": "1. ชอบ 1. to like"
+   },
+   {
+      "Title": "nyias",
+      "Description": "1. แต่ละคน ใช้คำนี้พันรอบคำกริยา 1. each, every... this word is used on both sides of the verb the verb nyias muaj nyias คนละ - each is different in it's own way, each one is different separately 2. บาง, ไม่หนา 2. to be thin, not thick"
+   },
+   {
+      "Title": "nyob",
+      "Description": "1. อยู่ 1. to be located, to be at"
+   },
+   {
+      "Title": "nyuag",
+      "Description": "1. เล็ก, น้อย 1. to be small, little, few"
+   },
+   {
+      "Title": "nyuaj",
+      "Description": "1. ยาก 1. to be difficult, to be hard (ดู/ see 'nyuaj siab')"
+   },
+   {
+      "Title": "nyuaj siab",
+      "Description": "1. กังวล, ทุกข์ 1. to be distressed, worried, stressed out, sad"
+   },
+   {
+      "Title": "nyuam qhuav",
+      "Description": "1. เพิ่ง 1. just recently, only just"
+   },
+   {
+      "Title": "ob",
+      "Description": "1. สอง, 2 1. two, 2"
+   },
+   {
+      "Title": "pab",
+      "Description": "1. ช่วย 1. help 2. กลุ่ม 2. a group"
+   },
+   {
+      "Title": "paj",
+      "Description": "1. ดอกไม้ 1. a flower"
+   },
+   {
+      "Title": "paj lug",
+      "Description": "1. สุภาษิต 1. a proverb"
+   },
+   {
+      "Title": "paub",
+      "Description": "1. ทราบ, รู้ 1. to know"
+   },
+   {
+      "Title": "paub cai",
+      "Description": "1. มีมารยาท, สุภาพ 1. to be polite, to have manners Nws tsis paub cai! เขาไม่มีมารยาท – He has no manners. ;"
+   },
+   {
+      "Title": "paub tab",
+      "Description": "1. เป็นผู้ใหญ่, มีประสบการณ์ 1. to be mature, to have experience"
+   },
+   {
+      "Title": "pauj",
+      "Description": "1. แก้แค้น , ตอบแทน 1. to revenge, to repay, to return a deed with another deed."
+   },
+   {
+      "Title": "paum",
+      "Description": "1. ช่องสังวาส, ช่องคลอด, โยนี (lub) 1. the vagina (lub)"
+   },
+   {
+      "Title": "pawg",
+      "Description": "1.กลุ่ม, กอง 1. a group, a pile"
+   },
+   {
+      "Title": "pe",
+      "Description": "1. โก้งโค้ง, ก้มตัว 1. to bend down, to bow down"
+   },
+   {
+      "Title": "pe hawm",
+      "Description": "1. นมัสการ 1. to worship"
+   },
+   {
+      "Title": "peb",
+      "Description": "1. เรา (สามคนขึ้นไป) 1. We (regarding three or more people) Peb tuaj xyuas koj. เรามาเยี่ยมคุณ - We came to visit you. 2. สาม (3) 2. Three (3)"
+   },
+   {
+      "Title": "peev xwm",
+      "Description": "1. ความสามารถ 1. ability"
+   },
+   {
+      "Title": "peevxwm",
+      "Description": "1. ความสามารถ 1. ability"
+   },
+   {
+      "Title": "pejxeem",
+      "Description": "1. ประชากร,ประชาชน, พวกพลเมือง 1. citizens, the population"
+   },
+   {
+      "Title": "pes tsawg",
+      "Description": "1. เท่าไหร่ 1. how many (ดู/see 'tsawg', 'pestsawg')"
+   },
+   {
+      "Title": "pestsawg",
+      "Description": "1. เท่าไหร่ 1. how many (ดู/see 'pes tsawg', 'pes tsawg')"
+   },
+   {
+      "Title": "phab ntsa",
+      "Description": "1. ฝาผนัง, กำแพง 1. a wall"
+   },
+   {
+      "Title": "phau",
+      "Description": "1. คำลักษณนามใช้เกี่ยวกับหนังสือ 1. Noun classifier used with books or volumes"
+   },
+   {
+      "Title": "phau ntawv",
+      "Description": "1. หนังสือ 1. a book"
+   },
+   {
+      "Title": "pheej",
+      "Description": "1. เรื่อยๆ, ไม่หยุด 1. continuously, incessantly"
+   },
+   {
+      "Title": "phem",
+      "Description": "1. ไม่ดี, แย่ 1. to be bad, to be awful"
+   },
+   {
+      "Title": "phim",
+      "Description": "1. เหมาะสม, สมควร, คู่ควร 1. to match, to be fitting, to be suited to something else"
+   },
+   {
+      "Title": "phooj ywg",
+      "Description": "1. เพื่อน, สหาย 1. a friend, companion, pal, buddy. (ดู kwvluag - see 'kwvluag')"
+   },
+   {
+      "Title": "phoojywg",
+      "Description": "1. เพื่อน, สหาย 1. a friend, companion, pal, buddy. (ดู kwvluag - see 'kwvluag')"
+   },
+   {
+      "Title": "piav",
+      "Description": "1. อธิบาย 1. to explain"
+   },
+   {
+      "Title": "pib",
+      "Description": "1. เริ่มต้น 1. to begin to or to begin, to start to or to start 2. ตั๋ว 2. a ticket (as in, for a train, airplane, etc.)"
+   },
+   {
+      "Title": "pim",
+      "Description": "1. ช่องสังวาส, ช่องคลอด, โยนี (lub) 1. the vagina (lub)"
+   },
+   {
+      "Title": "piv",
+      "Description": "1. เปรียบเทียบ, เทียบ 1. to compare"
+   },
+   {
+      "Title": "piv txwv",
+      "Description": "1. คำเปรียบเทียบ, อุปมา 1. an illustration, an example"
+   },
+   {
+      "Title": "plab",
+      "Description": "1. ท้อง 1. the belly, stomach. Kuv tshaib plab ผมหิว - I'm hungry."
+   },
+   {
+      "Title": "plab hlaub",
+      "Description": "1. น่อง 1. the calf of the leg"
+   },
+   {
+      "Title": "plaub",
+      "Description": "1. สี่, 4 1. four, 4 2.ขน 2. body hair, animal hair, feathers"
+   },
+   {
+      "Title": "plaub hau",
+      "Description": "1. ผม 1. hair of the head"
+   },
+   {
+      "Title": "plaws",
+      "Description": "1. คำวิเศษณ์ที่เพิ่มความหมายแบบฉับพลัน 1. adverb which increases the suddeness of the verb 2. คำวิเศษณ์ที่เพิ่มความหมายว่าครบถ้วน 2. an adverb used to increase the sense of completeness of the verb"
+   },
+   {
+      "Title": "plawv",
+      "Description": "1. หัวใจ 1. the heart (Referring to the organ, not the figurative heart. For the figurative heart see 'siab.') 2. ศูนย์กลาง, กึ่งกลาง 2. the center, the middle"
+   },
+   {
+      "Title": "plhom",
+      "Description": "1. ล้าน, 1,000,000 1. million, 1,000,000"
+   },
+   {
+      "Title": "plhu",
+      "Description": "1. แก้ม (lub) 1. the cheek (of the face) (lub) 1. อวดดี, อหังการ, กล้า 1. 'cheek' in the sense of audacity, boldness, to be tactless or without a respect for taboo or authority Ua cas nws muaj plhu hais kuv li ntawd! ทำไมเขากล้าพูดอย่างนัน - How come he has the cheek to talk to me like that!"
+   },
+   {
+      "Title": "plig",
+      "Description": "1. วิญญาณ 1. an invisible spirit, a ghost"
+   },
+   {
+      "Title": "ploj",
+      "Description": "1. หาย, หายวับ 1. to disappear"
+   },
+   {
+      "Title": "pluas",
+      "Description": "1. มื้ออาหาร, คำลักษณนามสำหรับมื้ออาหาร 1. a noun classifier for meals; a meal xya pluas mov อาหารเจ็ดมื้อ - seven meals"
+   },
+   {
+      "Title": "po",
+      "Description": "1. ม้าม (tus) 1. the spleen (tus)"
+   },
+   {
+      "Title": "pob ntseg",
+      "Description": "1. หู 1. the ear, the whole ear."
+   },
+   {
+      "Title": "pob qa",
+      "Description": "1. กล่องเสียง 1. The larynx, the voicebox."
+   },
+   {
+      "Title": "pob tw",
+      "Description": "1. ก้น 1. the butt"
+   },
+   {
+      "Title": "pob txha",
+      "Description": "1. กระดูก 1. bone, a bone"
+   },
+   {
+      "Title": "pob txha mos",
+      "Description": "1. กระดูกอ่อน 1. cartilage"
+   },
+   {
+      "Title": "pob zeb",
+      "Description": "1. หิน 1. a rock"
+   },
+   {
+      "Title": "pojniam",
+      "Description": "1. ผู้หญิง"
+   },
+   {
+      "Title": "pom",
+      "Description": "1. เห็น 1. to see"
+   },
+   {
+      "Title": "pom kev",
+      "Description": "1. เห็นได้ 1. to be able to see, lit. see the road"
+   },
+   {
+      "Title": "pom qab",
+      "Description": "1. ทราบ, เข้าใจ 1. to know, to understand มักจะใช้อย่าง... Usually used like... Kuv tsis pom qab yuav ua li cas. ผมไม่ทราบว่าจะทำอย่างไร ดี - I don't know what to do."
+   },
+   {
+      "Title": "poob",
+      "Description": "1. ตก, หล่น 1. to fall, to drop"
+   },
+   {
+      "Title": "poob zoo",
+      "Description": "1. หลงทาง (เสียงเปลี่ยนจาก 'poob zoov') 1. to get lost, to be lost (tone change from 'poob zoov')"
+   },
+   {
+      "Title": "pov",
+      "Description": "1. โยน 1. to toss, to throw underhand"
+   },
+   {
+      "Title": "pov thawj",
+      "Description": "1. หลักฐาน 1. proof, evidence 2. ปุโรหิต 2. a priest"
+   },
+   {
+      "Title": "puab",
+      "Description": "1. ปั้น 1. to mold, to form"
+   },
+   {
+      "Title": "puab tsaig",
+      "Description": "1. คาง 1. the chin"
+   },
+   {
+      "Title": "puag",
+      "Description": "1. กอด 1. to hug 2. ใช้ในการแสดงอะไร ๆ ที่ใกลหรือนานมาก 2. a word used to express great distance in either time or space."
+   },
+   {
+      "Title": "puam tsuaj",
+      "Description": "1. โทรม, ถูกทำลายแล้ว, ใช้ไม่ได้แล้ว 1. destroyed, ruined"
+   },
+   {
+      "Title": "puas",
+      "Description": "1. คล้ายๆ กันคำว่า 'ไหม' แต่ต้องใช้ก่อนคำกริยาที่อยากถามถึง 1. a 'question word' used before the verb you would like to inquire about. The question must be a 'yes or no' question. Nws nyiam kuv เขาชอบผม - He likes me. Nws puas nyiam kuv เขาชอบผมไหม? - Does he likes me."
+   },
+   {
+      "Title": "puav",
+      "Description": "1. ค้างคาว (ใช้คำลักษณนาม ' tus') 1. the bat (the animal, not the club or stick) ( uses the noun classifier 'tus')"
+   },
+   {
+      "Title": "puav leej",
+      "Description": "1. ทั้งหมด 1. all, completely"
+   },
+   {
+      "Title": "puavleej",
+      "Description": "1. ทั้งหมด 1. all, completely"
+   },
+   {
+      "Title": "pub",
+      "Description": "1. ให้, มักจะหมายถึงการให้ฟรี 1. to give, usually used in the sense of giving a gift or giving something for free"
+   },
+   {
+      "Title": "puj ntaws",
+      "Description": "1. สะดือ, นาภี 1. the navel, the belly button"
+   },
+   {
+      "Title": "puv",
+      "Description": "1. เต็ม 1. to be full, to fill"
+   },
+   {
+      "Title": "puv ntia",
+      "Description": "1. เต็มหมด 1. to be very full, to fill completely"
+   },
+   {
+      "Title": "pw",
+      "Description": "1. นอน 1. to lie down"
+   },
+   {
+      "Title": "qab",
+      "Description": "1. หลังจาก 1. after 2. ที่หลัง 2. behind 3. ทิศใต้ 3. to be south sab qab teb ทิศใต้ - south"
+   },
+   {
+      "Title": "qab ntuj",
+      "Description": "1. ระบบ, โลกนี้, แปลตรงว่า ทุกอย่างภายใต้ฟ้าสวรรค์ 1. the system, the state of things, lit. everything under the heavens."
+   },
+   {
+      "Title": "qab yiag",
+      "Description": "1. เพดาน ปาก 1. the roof of the mouth"
+   },
+   {
+      "Title": "qabhau",
+      "Description": "1. ประโยชน์, ค่า 1. value, benefit"
+   },
+   {
+      "Title": "qaib",
+      "Description": "1. ไก่ (tus qaib) 1. a chicken (tus qaib)"
+   },
+   {
+      "Title": "qas txhiab qas vam",
+      "Description": "1. นับไม่ถ้วน, มากมายเกินกว่าจะนับได้ 1. countless, innumerable"
+   },
+   {
+      "Title": "qau",
+      "Description": "1. องคชาต (tus) 1. the penis (tus)"
+   },
+   {
+      "Title": "qaub ncaug",
+      "Description": "1. น้ำลาย 1. saliva, spit"
+   },
+   {
+      "Title": "qaug",
+      "Description": "1. ตก, จำนน 1. to give into, to fall for"
+   },
+   {
+      "Title": "qaug dej qaug cawv",
+      "Description": "1. สำนวนสำหรับการเมา, ขี้เหล้า, ขี้เมา 1. an idiom for being drunk, to be a drunkard"
+   },
+   {
+      "Title": "qaug zog",
+      "Description": "1. เหนื่อย, เหนื่อยล้า 1. to be weak, drained, fatigued"
+   },
+   {
+      "Title": "qauv",
+      "Description": "1. แบบ, ตัวอย่าง 1. a model, a pattern, an example"
+   },
+   {
+      "Title": "qeb",
+      "Description": "1. ขั้นตอน, ระดับ 1. a step, a level"
+   },
+   {
+      "Title": "qee",
+      "Description": "1. เก็บสะสม, 1. to save up, to accumulate."
+   },
+   {
+      "Title": "qes",
+      "Description": "1. ต่ำ, เตี้ย 1. low, short"
+   },
+   {
+      "Title": "qev",
+      "Description": "1. ยืม, ยืมมา 1. To Borrow."
+   },
+   {
+      "Title": "qheb",
+      "Description": "1. เปิด 1. to open"
+   },
+   {
+      "Title": "qhev",
+      "Description": "1. ทาส, ผู้รับใช้ 1. a slave, a servant."
+   },
+   {
+      "Title": "qhia",
+      "Description": "1. สอน, แจ้ง 1. to teach, to inform"
+   },
+   {
+      "Title": "qho",
+      "Description": "การเปลี่ยนแปลงเสียงจาก 'qhov' - tone change from 'qhov.' 1. จุด, อัน, สิ่ง 1. the thing ... (used very broadly) Kuv tsis nyiam qhov uas koj thuam kuv. ผมไม่ชอบ สิ่ง ที่คุณเยาะเย้ยผม - I don't like that (which) you ridicule me. 2. ที่, สถานที่; ใช้ในการวัดปณิธาน 2. a place; used in measurements Qhov chaw สถานที่ - a place (location) Qhov tseeb ความจริง - The truth Qhov tob ความลึก - depth Qhov dav ความกว้าง - width"
+   },
+   {
+      "Title": "qhov",
+      "Description": "1. จุด, อัน, สิ่ง 1. the thing ... (used very broadly) Kuv tsis nyiam qhov uas koj thuam kuv. ผมไม่ชอบ สิ่ง ที่คุณเยาะเย้ยผม - I don't like that (which) you ridicule me. 2. ที่, สถานที่; ใช้ในการวัดปณิธาน 2. a place; used in measurements Qhov chaw สถานที่ - a place (location) Qhov tseeb ความจริง - The truth Qhov tob ความลึก - depth Qhov dav ความกว้าง - width"
+   },
+   {
+      "Title": "qhov chaw",
+      "Description": "1. สถานที่ 1. a place"
+   },
+   {
+      "Title": "qhov muag",
+      "Description": "1. ตา 2. the eye"
+   },
+   {
+      "Title": "qhov ncauj",
+      "Description": "1. ปาก 1. the mouth"
+   },
+   {
+      "Title": "qhov ntseg",
+      "Description": "1. ช่องหู 1. the ear canal"
+   },
+   {
+      "Title": "qhov quav",
+      "Description": "1. ทวารหนัก 1. the anus"
+   },
+   {
+      "Title": "qhov raws",
+      "Description": "1. ส่วนด้านหลังขาซึ่งอยู่ที่หลังเข่า 1. the soft area of flesh on the back of the leg behind the knee"
+   },
+   {
+      "Title": "qhov tsos",
+      "Description": "1. รักแร้ 1. the armpit"
+   },
+   {
+      "Title": "qhovtwg",
+      "Description": "1. ที่ไหน 1. where, anywhere"
+   },
+   {
+      "Title": "qhuab",
+      "Description": "1. วินัย, อบรม, สั่งสอน 1. to train, teach, reprimand, counsel ;"
+   },
+   {
+      "Title": "qhuas",
+      "Description": "1. ชมเชย, สรรเสริญ 1. to compliment, praise"
+   },
+   {
+      "Title": "qhuav",
+      "Description": "1. แห้ง 1. to be dry, dried out"
+   },
+   {
+      "Title": "qhwv",
+      "Description": "1. พัน, ห่อ 1. to wrap up, to bandage"
+   },
+   {
+      "Title": "qias",
+      "Description": "1. สกปรก, โสโครก 1. to be filthy, disgusting, dirty"
+   },
+   {
+      "Title": "qias vuab tsuab",
+      "Description": "1. ปนเปื้อน 1. to be contaminated"
+   },
+   {
+      "Title": "qog",
+      "Description": "1. การสะท้อนเสียงของคนอื่นหรือพูดตามเขา 1. to mimic, or imitate by repeating the sound of something or someone"
+   },
+   {
+      "Title": "qoob",
+      "Description": "1. พืดผล 1. a crop, a harvest, the crop of vegetables grown to be sold or eaten."
+   },
+   {
+      "Title": "qoob loo",
+      "Description": "1.พืชผล, ผลผลิตจากทุ่งนา 1. crops, produce of the field"
+   },
+   {
+      "Title": "quaj",
+      "Description": "1. ร้องไห้ 1. to cry, to wail, to cry out"
+   },
+   {
+      "Title": "quaj ntsuag",
+      "Description": "1. คร่ำครวญ, ร้องไห้ในการคร่ำครวญ 1. to wail in mourning, to mourn"
+   },
+   {
+      "Title": "quav ntsej",
+      "Description": "1. สังเกต, ตั้งสมาธิ 1. to pay attention, to concentrate"
+   },
+   {
+      "Title": "quav nyab",
+      "Description": "1. ฟางข้าว 1. stubble, straw, hay"
+   },
+   {
+      "Title": "qub",
+      "Description": "1 . เก่า 1 . old when referring to things and not people"
+   },
+   {
+      "Title": "qub txeeg qub teg",
+      "Description": "1. มรดก, ข้าวของที่ได้รับจากพ่อแม่ 1. inheritance, estate"
+   },
+   {
+      "Title": "rab",
+      "Description": "1. คำลักษณนามใช้เกี่ยวกับเครื่องมือ 1. a noun classifier for tools"
+   },
+   {
+      "Title": "ras",
+      "Description": "1. ตกใจ, แตกแตน, ขวัญหาย; เหมือนฝูงสัตว์ที่อยู่อย่างสงบสุข แต่มีอะไรเกิดขึ้นทำใหพวกเขาตกใจหนี 1. to be startled, shocked; like a peaceful herd of animals that has something suddenly shock them and causes them to panic and run."
+   },
+   {
+      "Title": "rau",
+      "Description": "1. สำหรับ, เพื่อ, ต่อ 1. to, for Muab lub paj no rau koj. เอาดอกไม้นี้ให้คุณ - Give this flower to you. Kuv yuav lub paj no rau koj. ผมซื้อดอกไม้นี้สำหรับคุณ - I bought this flower for you. 2. ใส่ (ยกเว้นเสื้อผ้า) 2. put in, include Rau mentsis ntsev. ใส่เกลือหน่อย - Put in a little salt."
+   },
+   {
+      "Title": "rau qhov",
+      "Description": "1. เพราะ, เพราะว่า 1. because"
+   },
+   {
+      "Title": "rau siab",
+      "Description": "1. เอาใจใส่ 1. to put your heart into something, to work hard at something."
+   },
+   {
+      "Title": "rau txim",
+      "Description": "1. ลงโทษ 1. to punish"
+   },
+   {
+      "Title": "raug",
+      "Description": "1. ถูก, โดน 1. to incur, to be affected by"
+   },
+   {
+      "Title": "raum",
+      "Description": "1. ไต 1. the kidney"
+   },
+   {
+      "Title": "raus",
+      "Description": "1. จมลงใต้, จมลงใต้น้ำ 1. to submerge, to submerge in water"
+   },
+   {
+      "Title": "raws",
+      "Description": "1. ตาม 1. to follow, according to 2. ส่วนด้านหลังขาซึ่งอยู่ที่หลังเข่า (qhov) 2. the soft area of flesh on the back of the leg behind the knee (qhov)"
+   },
+   {
+      "Title": "rawv",
+      "Description": "1. คำที่ใช้ที่หลังคำกริยาที่เพิ่มความหมายว่า 'แน่วแน่' หรือ 'มั่นคง' 1. a word used to add the idea of 'firmness' or 'steadiness' to a verb"
+   },
+   {
+      "Title": "rhais",
+      "Description": "1. เหน็บ, แทรก 1. to tuck, to insert"
+   },
+   {
+      "Title": "rhawv",
+      "Description": "1. ก่อสร้างทางใหม่; ทำอะไรใหม่ๆ หรือ อสร้างเป็นคนแรก. 1. to pioneer or create a new path, to do something new or be the forerunner in doing something. rhawv txojcai tshiab ตรากฎหมายขึ้นใหม่ - to enact a new law ;"
+   },
+   {
+      "Title": "rho",
+      "Description": "1. ถอด, ดึงออก 1. to extract, to pull out"
+   },
+   {
+      "Title": "rho menyuam",
+      "Description": "1. แท้ง 1. to abort a child"
+   },
+   {
+      "Title": "rhuav",
+      "Description": "1. ทำลาย 1. to destroy, to eradicate"
+   },
+   {
+      "Title": "rog",
+      "Description": "1. อ้วน 1. to be fat 2. สงคราม (ntsuj) 2. war (ntsuj)"
+   },
+   {
+      "Title": "roj",
+      "Description": "1. น้ำมัน 1. oil"
+   },
+   {
+      "Title": "roj ntsha",
+      "Description": "การเปลี่ยนแปลงเสียงจาก 'roj ntsha' - tone change from 'roj ntshav' 1. เลือดเนื้อ 1. flesh and blood"
+   },
+   {
+      "Title": "roob",
+      "Description": "1. ภูเขา 1. a mountain"
+   },
+   {
+      "Title": "roob hlaub",
+      "Description": "1. หน้าแข้ง 1. the shin"
+   },
+   {
+      "Title": "roog",
+      "Description": "1. โต๊ะ 1. a table 2. คำลักษณนามใช้กับเรื่องการประชุมหรือกลุ่มที่ชุมนุมกันเป็นพรรคพวก. บางครั้งคำนี้จะใช้กับคำกริยาแทนคำนาม 2. a noun classifier used in regard to meetings to groups that gather together for a single purpose. Sometimes this word is used with verbs instead of nouns. sib txoos ประชุม - to meet ib roog sib txoos การประชุม, การประชุมหนึ่งครั้ง - a meeting, one meeting"
+   },
+   {
+      "Title": "rooj",
+      "Description": "1. โต๊ะ 1. a table 2. คำลักษณนามใช้กับเรื่องการประชุมหรือกลุ่มที่ชุมนุมกันเป็นพรรคพวก. บางครั้งคำนี้จะใช้กับคำกริยาแทนคำนาม 2. a noun classifier used in regard to meetings to groups that gather together for a single purpose. Sometimes this word is used with verbs instead of nouns. sib txoos ประชุม - to meet ib roog sib txoos การประชุม, การประชุมหนึ่งครั้ง - a meeting, one meeting"
+   },
+   {
+      "Title": "rov",
+      "Description": "1. กลับ 1. to return, come back, reverse"
+   },
+   {
+      "Title": "ruaj",
+      "Description": "1. มั่น 1. stable, reliable, secure"
+   },
+   {
+      "Title": "ruam",
+      "Description": "1. โง่, โง่ เขลา, งี่เง่า 1. to be stupid, idiotic, ridiculous"
+   },
+   {
+      "Title": "rub",
+      "Description": "1. ดึง, ดึงออก 1. to pull on, to pull"
+   },
+   {
+      "Title": "sab",
+      "Description": "1. ด้าน, ข้าง, ฝ่าย 1. a side. 2. สาหัส 2. serious in a medical sense. 3. ลำแสง 3. a ray of light, a beam of light ;"
+   },
+   {
+      "Title": "sab yeeb ceeb",
+      "Description": "1. โลกแห่งวิญญาณ 1. the spirit world"
+   },
+   {
+      "Title": "sablaj",
+      "Description": "1. ประชุมกัน, ปรึกษากัน, พิจารณาเรื่องเป็นกลุ่ม 1. to meet together, consult together, consider something as a group"
+   },
+   {
+      "Title": "saib",
+      "Description": "1. ดู, มองดูที่ 1. to look, to look at"
+   },
+   {
+      "Title": "saib taus",
+      "Description": "1. เคารพ, นับถือ 1. to respect (ดู/ see 'hwm')"
+   },
+   {
+      "Title": "saib tsis taus",
+      "Description": "1. ดูหมิ่น, ดูถูก (แปลตรงว่า มองดูไม่ได้) 1. to disrespect (translates literally as \"can't look at\")"
+   },
+   {
+      "Title": "saib xyuas",
+      "Description": "1. ดูแล, จัดการ, ควบคุม 1. to look over, to manage, to care for"
+   },
+   {
+      "Title": "sam hwm",
+      "Description": "1. สั่ง, สั่งงาน; ตักเตือน 1. to command, to admonish"
+   },
+   {
+      "Title": "sau",
+      "Description": "1. เขียน 1. to write 2. รวบรวม, เก็บไว้ 2. to collect, to gather together"
+   },
+   {
+      "Title": "saud",
+      "Description": "ดู / see saum ."
+   },
+   {
+      "Title": "saum",
+      "Description": "1. ด้านบน 1. on top of, above"
+   },
+   {
+      "Title": "sawb sim",
+      "Description": "1. เก็บสิ่งของต่างๆ ไว้เพื่อจะออกไปเที่ยว หรือไปที่อื่น 1. to pack up, gather up all of one's things to leave on a trip."
+   },
+   {
+      "Title": "sawv",
+      "Description": "1. ยืน, ยืนขึ้น 1. to stand up, to rise up"
+   },
+   {
+      "Title": "sawvdaws",
+      "Description": "1. ทุกคน 1. everyone"
+   },
+   {
+      "Title": "se",
+      "Description": "1. ภาษี 1. tax"
+   },
+   {
+      "Title": "seb",
+      "Description": "1. คล้ายกันความหมายว่า ใช่หรือไม่ 1. a particle that has a meaning similar to 'whether or not'"
+   },
+   {
+      "Title": "sev nyog",
+      "Description": "1. เสี่ยง, สุ่มเสี่ยง 1. to risk, to endanger"
+   },
+   {
+      "Title": "sia",
+      "Description": "1. ชีวิต (การเปลี่ยนแปลงเสียงจาก 'siav') 1. life, the force of life (tone change from 'siav')"
+   },
+   {
+      "Title": "siab",
+      "Description": "1. ใจ 1. the liver; the figurative heart 2. สูง 2. high, to be high, tall"
+   },
+   {
+      "Title": "siab dawb",
+      "Description": "1. ใจกว้าง, เอื้อเฟื้อ 1. generous, giving, wide-hearted"
+   },
+   {
+      "Title": "siab hlob",
+      "Description": "1. โลภ 1. to be greedy"
+   },
+   {
+      "Title": "siab npuab",
+      "Description": "1. ภักดี, ซื่อสัตย์, พิงหรือยันหัวใจขึ้นกับ 1. loyal, to rest or lean the heart up against"
+   },
+   {
+      "Title": "siab nthuav ntxeev",
+      "Description": "1. ใจกว้าง, ใจเป็นกลาง, เปิดใจ; อยู่พร้อมที่จะเรียนอะไรใหม่ ๆ 1. To be open minded, ready to learn new things. ; Muaj lub siab nthuav ntxeev kawm เรียนแบบเปิดใจ - Study with an open mind."
+   },
+   {
+      "Title": "siab nyiam",
+      "Description": "1. ความตั้งใจ 1. desire, will, intention"
+   },
+   {
+      "Title": "siab tawv",
+      "Description": "1. กล้าหาญ 1. to be brave"
+   },
+   {
+      "Title": "siab tawv qhawv",
+      "Description": "1. กล้าหาญ 1. to be brave"
+   },
+   {
+      "Title": "siab tuab siab tawv",
+      "Description": "1. กล้าหาญ 1. to be brave"
+   },
+   {
+      "Title": "siav",
+      "Description": "1. ชีวิต, พลัง ชีวิต, ไม่ไช่ ชีวิตประจำวัน 1. life, the force of life. Not the life one leads."
+   },
+   {
+      "Title": "sib",
+      "Description": "1. มีน้ำหนักเบา 1. to be light, not heavy 2. กัน, กันและกัน 2. A word that indicates reciprocal action. Something that is happening back and forth between two sides. sib ntau sib tua ต่อสู้กัน - to fight together sib nwj จูบกัน - kiss eachother"
+   },
+   {
+      "Title": "sib cav sib ceg",
+      "Description": "1. โต้เถียงกัน, ทะเลาะกัน 1. to argue together, to fight with words"
+   },
+   {
+      "Title": "sib ntaus sib tua",
+      "Description": "1. ต่อสู้กัน 1. to fight together, to make war together"
+   },
+   {
+      "Title": "sib raug zoo",
+      "Description": "1. เข้าคอ, สัมพันธ์กัน 1. to get along well, to have a good relationship"
+   },
+   {
+      "Title": "sib txoos",
+      "Description": "1. ชุมนุมกัน, ประชุมกัน 1. to meet, to gather, to congregate"
+   },
+   {
+      "Title": "sib txuas lus",
+      "Description": "1. สื่อสาร, คุยกัน, สนทนา กัน, ติดต่อกัน, โต้ตอบกัน 1. to chat, to talk together, to communicate, to converse"
+   },
+   {
+      "Title": "sijhawm",
+      "Description": "1. เวลา 1. time"
+   },
+   {
+      "Title": "sim",
+      "Description": "1. พยายาม, ทดลอง 1. to try, to test"
+   },
+   {
+      "Title": "sim neej",
+      "Description": "1. ชั่วชีวิต, ตลอดชีวิต 1. a lifetime, the totality of one's life."
+   },
+   {
+      "Title": "siv",
+      "Description": "1. ใช้ 1. to use"
+   },
+   {
+      "Title": "suab",
+      "Description": "1. เสียง 1. a voice, a sound"
+   },
+   {
+      "Title": "suav",
+      "Description": "1. นับ 1. to count 2. จีน 1. China, Chinese"
+   },
+   {
+      "Title": "suav tsis txheeb",
+      "Description": "1.นับไม่ถ้วน 1. unable to count"
+   },
+   {
+      "Title": "tab kaum",
+      "Description": "1. รบกวน, ก่อกวน 1. to bother, to interrupt"
+   },
+   {
+      "Title": "tabtom",
+      "Description": "1. กำลัง, ทำอยู่ 1. to be in the process of doing something. Similar to -ing that is added to verbs in English."
+   },
+   {
+      "Title": "tag",
+      "Description": "1. หมด, สิ้น, จบ 1. to be finished, completed, done (ดู/see tas)"
+   },
+   {
+      "Title": "tag nrho",
+      "Description": "1. ทั้งหมด 1. all"
+   },
+   {
+      "Title": "tamsim no",
+      "Description": "1. เดี๋ยวนี้, ตอนนี้, ขณะนี้ 1. right now, this moment"
+   },
+   {
+      "Title": "tas",
+      "Description": "1. หมด, สิ้น, จบ 1. to be finished, completed, done (ดู/see tag)"
+   },
+   {
+      "Title": "tas zog",
+      "Description": "1. ใช้พลังงานทั้งหมด, เต็มที่, ทุ่มเท 1. to use all the energy you have to accomplish something"
+   },
+   {
+      "Title": "tau",
+      "Description": "1. ได้ 1. to have achieved, got. Often used to express past tense."
+   },
+   {
+      "Title": "tau hau ntsoov",
+      "Description": "1. ก้าวไปข้างหน้า 1. to advance forward, to move ahead"
+   },
+   {
+      "Title": "taub hau",
+      "Description": "1. หัว, ศีรษะ (lub) 1. the head (lub)"
+   },
+   {
+      "Title": "taubhau",
+      "Description": "1. หัว, ศีรษะ (lub) 1. the head (lub)"
+   },
+   {
+      "Title": "taug",
+      "Description": "1. ตาม, ติดตาม 1. to walk on a path, to follow a path, to trace along a line"
+   },
+   {
+      "Title": "taus",
+      "Description": "1. ... (ดู tau) 1. ... (see 'tau') 2. ขวาน (rab) 2. an axe (rab)"
+   },
+   {
+      "Title": "tauv",
+      "Description": "1. คำลักษณนามสำหรับเมฆ 1. a noun classifier for clouds ib tauv huab เมฆหนึ่งก้อน - one cloud"
+   },
+   {
+      "Title": "tav",
+      "Description": "1. กั้น , กัน, กีด, กีดกัน 1. to bar, to obstruct, to block 2. ซี่โครง (tus); นอกจากนี้ก็ใช้ในการอ้างถึงที่รักแท้จริงของคุณ 2. the rib, a rib (tus); also used to refer to your true love kuv tus tav ซี่โครงของฉัน/ ที่รัก - my rib/ my love 3. ช่วงเวลา 3. a period of time tav su เวลาอาหารกลางวัน - lunch time ;"
+   },
+   {
+      "Title": "taw",
+      "Description": "1. ชี้ 1. to point"
+   },
+   {
+      "Title": "tawg",
+      "Description": "1. แตก, ระเบิด 1. to explode, to burst, to pop"
+   },
+   {
+      "Title": "tawm",
+      "Description": "1. ออก, ออกไป 1. to leave, to exit"
+   },
+   {
+      "Title": "tawm tsam",
+      "Description": "1. ต่อต้าน, กบฎ, สู้ 1. to resist, fight against, oppose"
+   },
+   {
+      "Title": "taws",
+      "Description": "1. ฟืน 1. fire wood"
+   },
+   {
+      "Title": "tawv",
+      "Description": "1. ผิว 1. skin, the surface or 'skin' of. 2. แข็ง 2. to be hard, to be rigid."
+   },
+   {
+      "Title": "teb",
+      "Description": "1. ตอบ 1. to answer Nws twb teb koj tag lawm. เขาได้ ตอบ คุณแล้ว - He has already answered you. 2. ทุ่ง (daim) teb 2. field (daim) teb Nws ua teb . เขาทำ ทุ่ง - He works the field ."
+   },
+   {
+      "Title": "tebchaws",
+      "Description": "1. ประเทศ 1. a country, a land"
+   },
+   {
+      "Title": "tebchaws moj sab qhua",
+      "Description": "1. ที่กันดาร, ทะเลทราย 1. a wilderness, a desert"
+   },
+   {
+      "Title": "teeb",
+      "Description": "1. โคมไฟ 1. a light, a lamp"
+   },
+   {
+      "Title": "teeb meem",
+      "Description": "1. ปัญหา 1. a problem"
+   },
+   {
+      "Title": "teem",
+      "Description": "1. นัด, ตั้ง, จัดเวลาหรือตั้งนัด มักจะใช้กับเวลา แต่บางทีได้ใช้กับเรื่องนามธรรมอื่นๆ ด้วย 1. to set or schedule an appointed time, to arrange; usually used with regard to time but sometimes used regarding arranging other abstract concepts."
+   },
+   {
+      "Title": "teev",
+      "Description": "1. นมัสการ 1. to worship 2. ชั่วโมง 2. an hour 3. ตาชั่ง (rab) 3. a scale (rab)"
+   },
+   {
+      "Title": "teev tiam",
+      "Description": "1. นมัสการ 1. to worship"
+   },
+   {
+      "Title": "tej",
+      "Description": "1. บาง ชนิด , บางส่วน , บางอัน; แสดงว่าพวกมันถูกแยกเป็นชนิด. ใช้ก่อนคำนาม. 1. Some, some types, various. The word implies that they are being separated by group. Used before the noun. ;"
+   },
+   {
+      "Title": "tej zaum",
+      "Description": "1. บังที, อาจจะ 1. maybe; sometimes"
+   },
+   {
+      "Title": "tes",
+      "Description": "1. มือ (txhais) 1. the hand (txhais) 2. คำลักษณนามสำหรับงาน 2. a classifier for work kuv tes haujlwm งานของฉัน - My work"
+   },
+   {
+      "Title": "thaj",
+      "Description": "1. พื้นที่, บริเวณ 1. an expanse, an area 2. แท่นบูชา 2. an altar"
+   },
+   {
+      "Title": "tham",
+      "Description": "1. คุยกัน, สนทนา 1. to chat, to converse, to communicate, 2. คบกัน 2. to date, to court"
+   },
+   {
+      "Title": "thaum",
+      "Description": "1. เมื่อ, ตอน 1. when, at the time..."
+   },
+   {
+      "Title": "thaum ntej",
+      "Description": "1 . ก่อนหน้านี้, เมื่อก่อน 1 . previously, earlier, the time before"
+   },
+   {
+      "Title": "thaum twg",
+      "Description": "1. เมื่อไร 1. when, the question when"
+   },
+   {
+      "Title": "thawj",
+      "Description": "1. แรก, ที่แรก 1. the first, the foremost, the original"
+   },
+   {
+      "Title": "thawj coj",
+      "Description": "1. ผู้นำ, หัวหน้า, หัวหน้า (tus) 1. leader, the head or person in charge (tus)"
+   },
+   {
+      "Title": "theem",
+      "Description": "1. ขั้น, ขั้นตอน, ระดับ 1. a step or level, for example on a ladder or in a process"
+   },
+   {
+      "Title": "them",
+      "Description": "1. จ่าย 1. to pay"
+   },
+   {
+      "Title": "thev",
+      "Description": "1. อดทน, อดกลั้น 1. to endure, to bear"
+   },
+   {
+      "Title": "thiab",
+      "Description": "1. และ, ด้วย 1. and, also"
+   },
+   {
+      "Title": "thiaj",
+      "Description": "1. จึง, ก็ 1. therefore, thus"
+   },
+   {
+      "Title": "thim",
+      "Description": "1. ถอย, ถอยไป, ถอนตัว 1. to retreat, withdrawal, back off ;"
+   },
+   {
+      "Title": "tho",
+      "Description": "1. เจาะทะลุ 1. to bore a hole"
+   },
+   {
+      "Title": "tho kev",
+      "Description": "1. ตัดเส้นทางเพื่อสร้างถนน, ตัดทาง 1. to cut a path, to make a road"
+   },
+   {
+      "Title": "thoob",
+      "Description": "1. ทั้ง, ทั่ว 1. all over, completely"
+   },
+   {
+      "Title": "thooj",
+      "Description": "1. คล้ายกัน, เหมือนกัน 1. To be similar, alike, the same"
+   },
+   {
+      "Title": "thooj nqaij leeg",
+      "Description": "1. กล้ามเนื้อ 1. muscle (in the body)"
+   },
+   {
+      "Title": "thov",
+      "Description": "1. ขอ, กรุณา 1. please (as a request. As in, 'Please shut the door.') Thov kaw qhov rooj os. กรุณาปิกประตูหน่อย - Please shut the door. ; 2. อธิษฐาน 1. to pray Thov Vajtswv. อธิษฐานต่อพระเจ้า - Pray to God."
+   },
+   {
+      "Title": "thuam",
+      "Description": "1. เยาะเย้ย, ดูถูก 1. to make fun of, ridicule. ;"
+   },
+   {
+      "Title": "thwjtim",
+      "Description": "1. สาวก 1. disciple"
+   },
+   {
+      "Title": "tiag",
+      "Description": "1. จริง 1. truly"
+   },
+   {
+      "Title": "tiam",
+      "Description": "1. สมัย 1. a generation, a time period spanning a human lifetime"
+   },
+   {
+      "Title": "tiamsis",
+      "Description": "1. แต่ 1. but, however"
+   },
+   {
+      "Title": "tias",
+      "Description": "1. ว่า 1. used like the English word 'that' in the sense of \"I wanted to say that you are nice\" but never to refer to location ( that car over there) or where one could also use the word 'which' (I have a cat that/which is black). Nws qhia peb tias peb tsis muaj tsev lawm. เขาแจ้งเราว่าเรวไม่มีบ้านแล้ว - He told us that we don't have a house anymore. Kuv xav hais koj tias kuv yuav mus. ฉันอยากบอกคุณว่าฉันจะไป - I wanted to tell you that I am going to go."
+   },
+   {
+      "Title": "tiav",
+      "Description": "1. สำเร็จ, สมบูรณ์, เสร็จ 1. to be complete, finished, perfect"
+   },
+   {
+      "Title": "tib",
+      "Description": "1. เดียว 1. single, singular"
+   },
+   {
+      "Title": "tibneeg",
+      "Description": "1. มนุษย์ 1. people, mankind"
+   },
+   {
+      "Title": "tibsi",
+      "Description": "1. ทั้งหมด, ทุกๆ 1. all, every"
+   },
+   {
+      "Title": "tig",
+      "Description": "1. หัน, กลับ 1. to turn around, to swivel"
+   },
+   {
+      "Title": "tij laug",
+      "Description": "1. พี่ชาย 1. older brother"
+   },
+   {
+      "Title": "tijlaug",
+      "Description": "1. พี่ชาย 1. older brother"
+   },
+   {
+      "Title": "tim",
+      "Description": "1. นู่น 1. that, there (referring to something a great distance away, perhaps in another country)"
+   },
+   {
+      "Title": "tim xyoob",
+      "Description": "1. เจ้าเมือง, ข้าหลวง , ผู้ว่า 1. a governor, a public official"
+   },
+   {
+      "Title": "timkhawv",
+      "Description": "1. พยาน 1. a witness"
+   },
+   {
+      "Title": "tis",
+      "Description": "1. ตั้งชื่อ 1. to name, to choose a name for"
+   },
+   {
+      "Title": "tiv thaiv",
+      "Description": "1. ป้องกัน 1. to protect, defend"
+   },
+   {
+      "Title": "to",
+      "Description": "1. ทะลุ, เจาะ 1. to bore, puncture"
+   },
+   {
+      "Title": "to taub",
+      "Description": "1. เข้าใจ 1. to understand"
+   },
+   {
+      "Title": "tob",
+      "Description": "1. ลึก, ลึกซึ้ง 1. to be deep"
+   },
+   {
+      "Title": "tod",
+      "Description": "1. นั้น... แสดงว่ามันอยู่ไกลหน่อย 1. over there, that over there... referring to something that is somewhat distant."
+   },
+   {
+      "Title": "tog",
+      "Description": "1. ฝ่าย, พวก, ข้าง 1. a side, a party lawv tuaj kuv tog พวกเขาเข้าข้างผม - they have come to my side 2. จม 2. to sink"
+   },
+   {
+      "Title": "tom",
+      "Description": "1. ที่ 1. at, referring to something somewhat far away. 2. กัด 1. to bite"
+   },
+   {
+      "Title": "tom hauv ntej",
+      "Description": "1. ในอนาคต 1. in the future"
+   },
+   {
+      "Title": "tom ntej",
+      "Description": "1. ข้างหน้า, ในอนาคต 1. ahead, in the future"
+   },
+   {
+      "Title": "tom qab",
+      "Description": "1. หลังจาก 1. after"
+   },
+   {
+      "Title": "tos",
+      "Description": "1. รอ 1. to wait for 2. รับ 2. to pick someone up ( at a bus station or school for example. Kuv mus tos nws tom tsev kawm ntawd. ฉันไปรับเขาที่โรงเรียน - I went and picked him up at the school."
+   },
+   {
+      "Title": "tsa",
+      "Description": "1. ยก 1. to raise up, to erect"
+   },
+   {
+      "Title": "tsam",
+      "Description": "1. อาจจะ, บางที 1. maybe, perhaps 2. บวม 2. to bloat, to become bloated"
+   },
+   {
+      "Title": "tsaug",
+      "Description": "1. ขอบคุณ บางครั้งใช้ร่วมกับคำกริยา \"ua\" และเป้าหมายของขอบคุณเพื่อหมายถึง 'ขอบคุณ' ดูตัวอย่างด้านล่าง 1. Thanks. Sometimes used combined with the verb 'ua' and the object of the thanks to mean 'thank you.' See below example. Kuv tau ua nws tsaug lawm. ฉันขอบคุณเขาแล้ว / I thanked him. Ua koj tsaug. ขอบคุณ / Thank you. ;"
+   },
+   {
+      "Title": "tsaug leeg",
+      "Description": "1. อ่อนแรง, เปลี้ย, เหนื่อย 1. to be fatigued, worn out, tired."
+   },
+   {
+      "Title": "tsaug zog",
+      "Description": "1. นอนหลับ, ง่วงนอน 1. to sleep; to be sleepy"
+   },
+   {
+      "Title": "tsav",
+      "Description": "1. ขับ 1. to drive 2. เพิ่ม, เสริม 2. to add to"
+   },
+   {
+      "Title": "tsawg",
+      "Description": "1. น้อย, จำนวนไม่มาก 1. few, not many 2. เท่าไหร่ 2. how many (ดู/see 'pes tsawg', 'pestsawg')"
+   },
+   {
+      "Title": "tse",
+      "Description": "(การเปลี่ยนแปลงเสียงจากคำว่า 'tsev' /tone change from 'tsev') 1. บ้าน, อาคาร 1. a house, a building lub tsev บ้าน - a house 2. คำนามที่จัดประเภทของอาคาร. ' อาคารสำหรับ...' 2. a noun that classifies a specific type of building. 'A house to...' tsev kawm ntawv โรงเรียน - a school tsev kho mob โรงพยาบาล - a hospital"
+   },
+   {
+      "Title": "tseeb",
+      "Description": "1. จริง 1. to be true"
+   },
+   {
+      "Title": "tseem",
+      "Description": "1. ในขณะนี้, ยัง...อยู่ 1. used before the verb to show that is still happening, still 2. จริง, แท้จริง 2. to be true, genuine."
+   },
+   {
+      "Title": "tseem ceeb",
+      "Description": "1. สำคัญ 1. important"
+   },
+   {
+      "Title": "tseem fwv",
+      "Description": "1. รัฐบาล (lub) 1. a government (lub)"
+   },
+   {
+      "Title": "tseg",
+      "Description": "1. ปล่อยไว้, ไว้ 1. to leave something, this is also an adverb that adds a sense of permanence."
+   },
+   {
+      "Title": "tsev",
+      "Description": "1. บ้าน, อาคาร 1. a house, a building lub tsev บ้าน - a house ; 2. คำนามที่จัดประเภทของอาคาร. ' อาคารสำหรับ...' 2. a noun that classifies a specific type of building. 'A house to...' tsev kawm ntawv โรงเรียน - a school tsev kho mob โรงพยาบาล - a hospital"
+   },
+   {
+      "Title": "tsev neeg",
+      "Description": "1. ครอบครัว 1. a family"
+   },
+   {
+      "Title": "tshaib",
+      "Description": "1. หิว 1. hungry Kuv tshaib plab ผมหิว - I'm hungry."
+   },
+   {
+      "Title": "tshaj",
+      "Description": "1. มาก, มากกว่า 1. very much, more than 2. มากที่สุด 2. the most"
+   },
+   {
+      "Title": "tshaj plaws",
+      "Description": "1. มากที่สุด 1. absolute most"
+   },
+   {
+      "Title": "tshaj tawm",
+      "Description": "1. ประกาศ 1. to announce, to preach"
+   },
+   {
+      "Title": "tshauv",
+      "Description": "1. ฟอน 1. ashes pawg tshauv กองฟอน - pile of ashes"
+   },
+   {
+      "Title": "tshav",
+      "Description": "1. สนาม 1. an open field, a field"
+   },
+   {
+      "Title": "tshav ntuj",
+      "Description": "1. แสงแดด 2. สำนวนสำหรับรางวัลหรือของขวัญ 1. sunlight 2. an idiom meaning a reward or a gift"
+   },
+   {
+      "Title": "tshav puam",
+      "Description": "1. ลาน, สนาม 1. an open field, an open expanse"
+   },
+   {
+      "Title": "tshawb",
+      "Description": "1. ค้นหา, เสาะหา, คุ้ย, คุ้ยหา 1. to search, to rummage, to pull everything apart trying to find."
+   },
+   {
+      "Title": "tshawb fawb",
+      "Description": "1. ค้นค้วา, วิจัย 1. to research, study"
+   },
+   {
+      "Title": "tsheb",
+      "Description": "1. รถ 1. a car, a vehicle."
+   },
+   {
+      "Title": "tsheb npav",
+      "Description": "1. รถบัส (ยืมมาจากภาษาอังกฤษ) 1. a bus (borrowed from English)"
+   },
+   {
+      "Title": "tshem",
+      "Description": "1. ลบ, ถอดไป 1. to erase, to wipe out."
+   },
+   {
+      "Title": "tshiab",
+      "Description": "1. ใหม่ 1. to be new"
+   },
+   {
+      "Title": "tsho",
+      "Description": "1. เสื้อ 1. a shirt or vest"
+   },
+   {
+      "Title": "tshooj",
+      "Description": "1. บท, บทความ, บทเรียน 1. a chapter 2. ช่อง. คำที่ยืมมาจากภาษาไทย 2. Loan word from Thai (ช่อง). It means a hole, an entry point, a place. Similar to the meaning of 'qhov' in Hmong."
+   },
+   {
+      "Title": "tshoov",
+      "Description": "1. ดลใจ 1. to inspire, to control the thoughts of, to possess (as in spirit possession)"
+   },
+   {
+      "Title": "tshua",
+      "Description": "1. คิดถึง 1. to miss, to think of 2. ค่อย, ชัก, ค่อนข้าง 2. kind of, somewhat Nws tsis tshua nyiam koj os. เขาไม่ค่อยชอบคุณครับ - He doesn't really like you very much."
+   },
+   {
+      "Title": "tshuaj",
+      "Description": "1. ยา 1. a medicine, a chemical"
+   },
+   {
+      "Title": "tshuam",
+      "Description": "1. สี่แยก, ตัดกับเส้น 1. to intersect, an intersection"
+   },
+   {
+      "Title": "tshuav",
+      "Description": "1. เหลือ, ขาด 1. what is left, what is lacking"
+   },
+   {
+      "Title": "tshwj xeeb",
+      "Description": "1. พิเศษ 1. to be special"
+   },
+   {
+      "Title": "tshwm",
+      "Description": "1. ปรากฏตัว, เกิดขึ้น 1. to appear, to happen (ดู tshwm sim, see 'tshwm sim')"
+   },
+   {
+      "Title": "tshwm sim",
+      "Description": "1. เกิดขึ้น 1. to happen (ดู tshwm, see 'tshwm')"
+   },
+   {
+      "Title": "tsiaj txhu",
+      "Description": "1. สัตว์ 1. an animal, animals"
+   },
+   {
+      "Title": "tsib",
+      "Description": "1.ห้า, 5 1. five, 5 2. ถุงนำ้ดี 2. the gall bladder"
+   },
+   {
+      "Title": "tsim",
+      "Description": "1. สร้าง 1. to create"
+   },
+   {
+      "Title": "tsim nyog",
+      "Description": "1. เหมาะสม, สมควร 1. to be appropriate, suitable, proper"
+   },
+   {
+      "Title": "tsim txiaj",
+      "Description": "1. มีค่า, มีคุณค่า 1. to be valuable"
+   },
+   {
+      "Title": "tsim txom",
+      "Description": "1. ทรมาน 1. to torture"
+   },
+   {
+      "Title": "tsis",
+      "Description": "1. ไม่ 1. used before a verb to express a negative, something that is 'not.' tsis yog ไม่ ไช่ - not true, not tsis siab ไม่ สูง - not tall"
+   },
+   {
+      "Title": "tsis txhob",
+      "Description": "1. ห้าม, อย่า... แต่ใช้เป็นคำสั่ง 1. a command to 'stop' or 'don't' do something. tsis txhob noj ห้ามกิน - Don't eat it!"
+   },
+   {
+      "Title": "tsiv",
+      "Description": "1. ย้าย 1. to move, to relocate 2. ดุร้าย 2. to be fierce"
+   },
+   {
+      "Title": "tso",
+      "Description": "1. ปล่อย 1. to release, let out"
+   },
+   {
+      "Title": "tso cai",
+      "Description": "1. อนุญาต, อนุมัติ 1. to give permission, to permit, to allow,"
+   },
+   {
+      "Title": "tso siab",
+      "Description": "(ดู tso siab plhuav - see 'tso siab plhuav') 1. วางใจ, ไว้ใจ. ตรงว่า การฝากหัวใจของคุณกับไคร 1. to trust, lit. to leave your heart with. ;"
+   },
+   {
+      "Title": "tso siab plhuav",
+      "Description": "(ดู tso siab - see 'tso siab') 1. วางใจ, ไว้ใจ. ตรงว่า การฝากหัวใจของคุณกับไคร 1. to trust, lit. to completely leave your heart with."
+   },
+   {
+      "Title": "tsob",
+      "Description": "1. คำลักษณนามใช้เกี่ยวกับพืชและต้นไม้ 1. noun classifier for plants, vegitation, and trees"
+   },
+   {
+      "Title": "tsom kwm",
+      "Description": "1. ป้องกัน 1. to protect."
+   },
+   {
+      "Title": "tsoo",
+      "Description": "1. กระแทก, ชน, ขยี้ 1. to crush by smashing or by collision"
+   },
+   {
+      "Title": "tsov",
+      "Description": "1. เสือ 1. the tiger"
+   },
+   {
+      "Title": "tsov rog",
+      "Description": "1. สงคราม 1. war (ดู ua tsov ua rog, see 'ua tsov ua rog') (ดู kev tsov kev rog, see 'kev tsov kev rog')"
+   },
+   {
+      "Title": "tsuag",
+      "Description": "1. หนู (tus) 1. the mouse or rat (tus) 2. จืด 2. to be tasteless, to have little or no taste 3. รวดเร็ว, เร็ว 3. quickly, to hurry, fast 4. กลุ่ม, กอง 4. a group, cluster, or pile 5. ฉีด 5. to spray"
+   },
+   {
+      "Title": "tsuas",
+      "Description": "1. เพียงเดียว, แค่ 1. only, just 2. ย้อม 2. to dye"
+   },
+   {
+      "Title": "tsuav",
+      "Description": "1. เฉพาะในกรณีที่ ..., ตราบใด... 1. as long as... only if... ;"
+   },
+   {
+      "Title": "tsum",
+      "Description": "1. หยุด, เลิก 1. to stop, to quit"
+   },
+   {
+      "Title": "tswj",
+      "Description": "1. ควบคุม 1. to control, to keep in check"
+   },
+   {
+      "Title": "tswj hwm",
+      "Description": "1. ควบคุม, ปกครอง 1. to control, to govern, to rule"
+   },
+   {
+      "Title": "tswjhwm",
+      "Description": "1. ควบคุม, ปกครอง 1. to control, to govern, to rule"
+   },
+   {
+      "Title": "tswv",
+      "Description": "1. เจ้าของ, เจ้า 1. a lord"
+   },
+   {
+      "Title": "tswvyim",
+      "Description": "1. ปัญญา 1. wisdom, idea"
+   },
+   {
+      "Title": "tu",
+      "Description": "1. ดูแล, ดูแลรักษา, ทำความสะอาด 1. to take care of, to fix, to clean 2. ขัดจังหวะ, ขัดขวางการไหล 2. to interrupt the flow of, to break off a connection"
+   },
+   {
+      "Title": "tu siab",
+      "Description": "1. เสียใจ, โกรธเคือง 1. to be sad, to be offended"
+   },
+   {
+      "Title": "tua",
+      "Description": "1. ฆ่า 1. to kill 2. ยิง 2. to shoot, to fire (as in a gun)"
+   },
+   {
+      "Title": "tuag",
+      "Description": "1. ตาย 1. to be dead, to die."
+   },
+   {
+      "Title": "tuag nthi",
+      "Description": "1. ครบถ้วน, อย่างสมบูรณ์ 1. completely, utterly"
+   },
+   {
+      "Title": "tuaj",
+      "Description": "1. มา (ใช้พูดถึงการมาถึงสถานที่ที่ไม่ได้เป็นบ้านของคนนั้น). 1. come (used regarding coming to a place that isn't one's home). Kuv tuaj xyuas koj. ผมมาเยี่ยมคุณ - I came to visit you. Koj tuaj qhovtwg tuaj. คุนมาจากไหน - Where are you from."
+   },
+   {
+      "Title": "tuam",
+      "Description": "1. ผลักดันด้วยเท้า 1. to push with the foot 2. มหา, คำใช้ในการอธิบายสิ่งที่ยิ่งใหญ่ 2. describing something that is great, important, the chief lub tsev บ้าน - the house lub tuam tsev วิหาร - the temple ;"
+   },
+   {
+      "Title": "tuam mom",
+      "Description": "1.ดูหมิ่น, ลบหลู่ 1. to disparage; to show no respect for authority, holiness, or rank; to blaspheme"
+   },
+   {
+      "Title": "tuav",
+      "Description": "1. ถือ 1. to hold on to 1. เรียกโดยใช้ชื่อ 1. to call by, to call by using a name ;"
+   },
+   {
+      "Title": "tub",
+      "Description": "1. เด็กผู้ชาย, บุตรชาย 1. a son, a boy 2. ใช้ในการแสดงอาชีพบางประเภท, นัก 2. used in showing some types of occupation, or class ; tub kawm นักเรียน - student"
+   },
+   {
+      "Title": "tub nkeeg",
+      "Description": "1. เกียจคร้าน 1. to be lazy (ดู/see 'nkeeg')"
+   },
+   {
+      "Title": "tub ntsuag",
+      "Description": "1. เด็กกำพร้า 1. an orphan"
+   },
+   {
+      "Title": "tub qhe",
+      "Description": "1. ทาส, ข้ารับใช้ 1. a slave"
+   },
+   {
+      "Title": "tub rog",
+      "Description": "1. ทหาร 1. a soldier, a warrior"
+   },
+   {
+      "Title": "tub sab",
+      "Description": "1. ขโมย, ผู้ลักทรัพย์ 1. a theif"
+   },
+   {
+      "Title": "tub teg tub taws",
+      "Description": "1. ผู้รับใช้ 1. a servant"
+   },
+   {
+      "Title": "tubtxib",
+      "Description": "1. ทูต, ผู้รับใช้ 1. a servant, someone sent on a mission"
+   },
+   {
+      "Title": "tubtxib saum ntuj",
+      "Description": "1. ทูตสวรรค์ (tus) 1. an angel (tus)"
+   },
+   {
+      "Title": "tug",
+      "Description": "1. คำลักษณนามใช้เกี่ยวกับคน, สัตว์, และสิ่งที่มีความยาวที่สั้น (ดู 'tus') 1. Noun classifier used to refer to people, animals, and short lengths. (See 'tus')"
+   },
+   {
+      "Title": "tus",
+      "Description": "1. คำลักษณนามใช้เกี่ยวกับคน, สัตว์, และสิ่งที่มีความยาวที่สั้น (ดู 'tug') 1. Noun classifier used to refer to people, animals, and short lengths. (See 'tug')"
+   },
+   {
+      "Title": "tus kheej",
+      "Description": "1. ด้วยตัวเอง, ตน เอง 1. one's self, yourself"
+   },
+   {
+      "Title": "tw",
+      "Description": "1. หาง 1. the tail 2. แข่งขัน (การเปลี่ยนแปลงเสียงจาก 'twv') 2. to compete (tone change from 'twv') sib tw(v) แข่งขันการ - to compete together"
+   },
+   {
+      "Title": "twb",
+      "Description": "1. คำที่แสดงว่าอะไรได้ผ่านไปแล้ว. ใช้ก่อนคำกริยา. 2. A word showing that something has already happened. Used before the verb. Kuv twb paub lawm. ฉันได้รู้ แล้ว - I already knew."
+   },
+   {
+      "Title": "twg",
+      "Description": "1. ไหน, ใด 1. which one, which"
+   },
+   {
+      "Title": "twj",
+      "Description": "1. เครื่องมือ, อุปกรณ์ 1. a tool, a piece of equipment"
+   },
+   {
+      "Title": "twjywm",
+      "Description": "1. เงียบ, นิ่ง 1. to be still; to be silent"
+   },
+   {
+      "Title": "twv",
+      "Description": "1. แข่งขัน 1. to compete sib tw(v) แข่งขันการ - to compete together"
+   },
+   {
+      "Title": "txais",
+      "Description": "1. ได้รับ 1. receive, accept, catch"
+   },
+   {
+      "Title": "txaus",
+      "Description": "1. พอ, พอดี 1. to be enough, to be sufficient"
+   },
+   {
+      "Title": "txaus siab",
+      "Description": "1. พอใจ 1. to be satisfied, to be pleased"
+   },
+   {
+      "Title": "txav",
+      "Description": "1. ย้าย 1. to move or relocate"
+   },
+   {
+      "Title": "txawj",
+      "Description": "1. สามารถ, เก่ง 1. to be able to, to be capable of, to be good at."
+   },
+   {
+      "Title": "txawm",
+      "Description": "1. แม้, ก็ 1. even though; therefore"
+   },
+   {
+      "Title": "txawv",
+      "Description": "1. ต่าง, แตกต่าง; แปลก 1. to be different, not the same; to be strange"
+   },
+   {
+      "Title": "txeeb",
+      "Description": "1. ชิง, แย่ง 1. to snatch, to seize or steal something away from someone by force."
+   },
+   {
+      "Title": "txeev",
+      "Description": "1. เคย 1. to have ever, ( as in 'have you ever gone before)"
+   },
+   {
+      "Title": "txha nqaj qaum",
+      "Description": "1. ไขสันหลัง 1. the spinal cord"
+   },
+   {
+      "Title": "txhab",
+      "Description": "1. ยุ้งฉาง, ฉางเก็บข้าว 1. a silo, a storage facility 2. เพิ่ม, เสริม, เติม 2. to add, to increase, to fill 2. บาดแผล 2. a wound, an open wound"
+   },
+   {
+      "Title": "txhais",
+      "Description": "1. แปล, หมายถึง 1. to translate, to mean 2. คำลักษณนามสำหรับสิ่งที่เป็นคู่กัน มักจะใช้กับส่วนร่างกายที่เป็นคู่กัน 2. a noun classifier for things that come in pairs. Often used with parts of the body that come in pairs. ob txhais tes มือสองมือ - two hands ;"
+   },
+   {
+      "Title": "txhaum",
+      "Description": "1. บาป, ละเมิด 1. a sin, an error, to be a sin, to be in error"
+   },
+   {
+      "Title": "txhawb",
+      "Description": "1. สนับสนุน, เร้าใจ, ให้กำลังใจ 1. to support, to encourage."
+   },
+   {
+      "Title": "txhawb nqa",
+      "Description": "1. สนับสนุน 1. to support"
+   },
+   {
+      "Title": "txhawj",
+      "Description": "1. กังวล, ห่วงใย 1. to worry, to stress"
+   },
+   {
+      "Title": "txhawj xeeb",
+      "Description": "1. กังวล, ห่วงใย 1. to worry, to stress"
+   },
+   {
+      "Title": "txheej",
+      "Description": "1. ชั้น, ชั้นของตึก 1. A floor, the floor of a building."
+   },
+   {
+      "Title": "txhiab",
+      "Description": "1. พัน, 1,000 1. one thousand"
+   },
+   {
+      "Title": "txhij",
+      "Description": "1. ครบถ้วน, สมบูรณ์, พร้อมครบ 1. all together, complete, completely ready and together"
+   },
+   {
+      "Title": "txhiv",
+      "Description": "1. ไถ่, ไถ่ตัว 1. to ransom, to exchange one thing for another as a ransom"
+   },
+   {
+      "Title": "txhob",
+      "Description": "1. ห้าม, คำสั่งให้หยุด 1. an imperative command to stop. txhob ua li kod หยุดการกระทำของคุณ - stop what you are doing. 2. กระตุ้นคนใดคนหนึ่งให้ทำอะไรบางอย่าง, ชักชวน 2. to motivate someone to do something, to persuade, to insist lawv txhob kom nws tuaj พวกเขาชักขวนให้เขามา - they insisted that he come"
+   },
+   {
+      "Title": "txhua",
+      "Description": "1. ทุก. คำนี้ต้องใช้คำลักษณนามทีหลัง 1. Every. This word must be followed by a noun classifier. Txhua leej txhua tus ทุกๆ คน - every one"
+   },
+   {
+      "Title": "txhua txhia qhov",
+      "Description": "1. ทุกที่ 1. Everywhere"
+   },
+   {
+      "Title": "txia",
+      "Description": "1. แปลง, เปลี่ยน, จำแลง 1. to transform, to change into something else"
+   },
+   {
+      "Title": "txiaj",
+      "Description": "1. ค่า, เงิน, มักจะใช้ติดกับคำอื่น 1. value, money... usually combined with other words. (ดู/ see 'nyiaj txiag' และ/and 'txiaj ntsig.') ;"
+   },
+   {
+      "Title": "txiaj ntsig",
+      "Description": "1. ความกรุนา, ความเอื้อเฟื้อ,อะไรดีๆ ที่ไครทำสำหรับคุณในอดีต 1. a favor or favors, a good deed or good deeds, any good that someone had done for you in the past."
+   },
+   {
+      "Title": "txiav",
+      "Description": "1. ตัด 1. to cut"
+   },
+   {
+      "Title": "txiav npawv",
+      "Description": "1. ทำให้หยุดหรือจบอย่างครบถ้วน, ตัดทิ้งอย่างสมบูรณ์ 1. to cut off definitively, to put to or bring to a complete stop hais lus txiav npawv พูดทำให้เรื่องจบสิ้นอย่างครบถ้วนตลอดไป - speak so as to end the matter once and for all"
+   },
+   {
+      "Title": "txiav txim",
+      "Description": "1. พิพากษา 1. to judge, to make a judgement 2. ตัดสินใจ 2. to decide, to make a decision"
+   },
+   {
+      "Title": "txib",
+      "Description": "1. ใช้มา, ส่งคนไป มักจะเพื่อทำกิจ 1. to send on a mission, to send... usually in reference to business or a mission"
+   },
+   {
+      "Title": "txij",
+      "Description": "1. ตั้งแต่ 1. since the point of, ever since 2. ใช้กับ 'nkawm' หมายถึงคู่สมรส 2. used with 'nkawm' it means a marriage mate. nrhiav txij nrhiav nkawm เสาะ หาคู่สมรส / to search for a marriage mate."
+   },
+   {
+      "Title": "txij nkawm",
+      "Description": "1. คู่สมรส 1. marriage mate"
+   },
+   {
+      "Title": "txim",
+      "Description": "1. บาป; โทษ (lub) 1. sin, imperfection; punishment (lub)"
+   },
+   {
+      "Title": "txiv",
+      "Description": "1. พ่อ 1. a father leej txiv พ่อ - father 2. สามี (tus) 2. a husband (tus) 3. ผลไม้ (lub) 3. a fruit (lub) lub txiv ผลไม้ - the fruit"
+   },
+   {
+      "Title": "txiv hmab txiv ntoo",
+      "Description": "1. ผลไม้ 1. fruits"
+   },
+   {
+      "Title": "txiv mis",
+      "Description": "1. หัวนม (lub) 1. the nipple (lub)"
+   },
+   {
+      "Title": "txiv neej",
+      "Description": "1. ผู้ชาย 1. a man"
+   },
+   {
+      "Title": "txivneej",
+      "Description": "1. ผู้ชาย 1. a man"
+   },
+   {
+      "Title": "txo",
+      "Description": "1. ลดลง 1. to reduce, lessen"
+   },
+   {
+      "Title": "txo hwjchim",
+      "Description": "1. ถ่อมตน, อ่อนน้อมถ่อมตน 1. to be humble, lit. to be willing to let go of authority"
+   },
+   {
+      "Title": "txog",
+      "Description": "1. เกี่ยวกับ 1. about, 2. ถึง 2. to have arrived"
+   },
+   {
+      "Title": "txoj",
+      "Description": "1. คำลักษณนามใช้เกี่ยวกับเส้น 1. noun classifier used to refer to lines, strings, things that have a beginning and end."
+   },
+   {
+      "Title": "txoj hau kev",
+      "Description": "1. เส้นทาง 1. a way, path"
+   },
+   {
+      "Title": "txojcai",
+      "Description": "1. กฏหมาย, ประเพณี 1. law, tradition, custom"
+   },
+   {
+      "Title": "txojkev",
+      "Description": "1. ถนน (txoj) kev 1. road, street, highway (txoj) kev ; 2. ความ, ทาง, เส้น (txoj) kev 2. the way, the way of, often used to turn a verb into a noun (txoj) kev hlub รัก - to love txojkev hlub ความ รัก - love, the way of love."
+   },
+   {
+      "Title": "txojlus",
+      "Description": "1. คำ 1. a word, a statement, a decree"
+   },
+   {
+      "Title": "txojsia",
+      "Description": "1. ชีวิต 1. life"
+   },
+   {
+      "Title": "txom nyem",
+      "Description": "1. ความยากจน 1. to be poor, destitute, miserable"
+   },
+   {
+      "Title": "txoos",
+      "Description": "1. ประชุม, รวมตัว 1. to gather, bunch together, cluster"
+   },
+   {
+      "Title": "txua",
+      "Description": "1. สร้าง, ต่อ, 1. to construct, to craft, to make"
+   },
+   {
+      "Title": "txuam",
+      "Description": "1. ผสม, ผสมผสาน 1. to mix, combine, blend"
+   },
+   {
+      "Title": "txuas",
+      "Description": "1. ต่อกัน, เชื่อมกัน 1. to connect, to join together"
+   },
+   {
+      "Title": "txuj ci",
+      "Description": "1. วิธี, ทักษะ 1. Method, trick, technique"
+   },
+   {
+      "Title": "txujci",
+      "Description": "1. วิธี, ทักษะ 1. Method, trick, technique"
+   },
+   {
+      "Title": "txwj laus",
+      "Description": "1. ผู้ปกครอง, ผผู้ดูแลในสังคมม้ง ; 1. an older man, an overseer, an elder"
+   },
+   {
+      "Title": "txwm",
+      "Description": "1. บรรลุ, ทำให้สำเร็จ 1. to complete, to add up to, to fulfill."
+   },
+   {
+      "Title": "txwv",
+      "Description": "1. ห้าม, สั่งห้าม 1. to prohibit, to ban"
+   },
+   {
+      "Title": "ua",
+      "Description": "1. ทำ 1. to do Koj ua dabtsi? คุณทำอะไรอยู่? - What are you doing? 2. ทำให้เป้น, กลายเป็น 2. to be, to become Koj ua tau kuv tus phoojywg. คุณป็นเพื่อนของฉันได้ - You can be my friend 3. สร้าง 3. to build ua tsev สร้างบ้าน - build a house"
+   },
+   {
+      "Title": "ua ke",
+      "Description": "1. ด้วยกัน 1. together mus ua ke ไปด้วยกัน - go together"
+   },
+   {
+      "Title": "ua ntej",
+      "Description": "1. ก่อน 1. before"
+   },
+   {
+      "Title": "ua si",
+      "Description": "1. เล่น, เล่น สนุก 1. to play"
+   },
+   {
+      "Title": "ua tib zoo",
+      "Description": "1. ระมัดระวัง 1. to be careful, to be cautious, to carefully do something. ua tib zoo xav ยั้งคิด - think carefully"
+   },
+   {
+      "Title": "ua tsov ua rog",
+      "Description": "1. รบราฆ่าฟัน, ออกศึก 1. to go to war, to make war (ดู kev tsov kev rog, see 'kev tsov kev rog') (ดู tsov rog, see 'tsov rog')"
+   },
+   {
+      "Title": "uab lag",
+      "Description": "1. อีกา 1. the crow"
+   },
+   {
+      "Title": "uas",
+      "Description": "1. ที่, ซึ่ง 1. which, that Noj lub uas koj nyiam. กินอัน ที่ คุณชอบ - Eat the one which you like."
+   },
+   {
+      "Title": "ub",
+      "Description": "1. จุดปลาย, จุดที่อยู่ไกลมาก ไม่ว่าจะเป็นแบบระยะทางหรือช่วงเวลา 1. the extreme point, to be far away in time or distance"
+   },
+   {
+      "Title": "vag",
+      "Description": "1. สวน 1. a garden (ดู/see 'vaj') 1. คำสั้น ๆ สำหรับคำว่า 'vaj ntxwv' ซึ่งหมายความว่า 'กษัตริย์' 1. a shortened form of the word 'vaj ntxwv' which means king. (ดู/see 'vaj')"
+   },
+   {
+      "Title": "vaim",
+      "Description": "1. หนอนหรือลูกของยุง (tus) 1. a larva, particularly the mosquito larva. (tus)"
+   },
+   {
+      "Title": "vaj",
+      "Description": "1. สวน 1. a garden (ดู/see 'vag') 1. คำสั้น ๆ สำหรับคำว่า 'vaj ntxwv' ซึ่งหมายความว่า 'กษัตริย์' 1. a shortened form of the word 'vaj ntxwv' which means king. (ดู/see 'vag')"
+   },
+   {
+      "Title": "Vajlugkub",
+      "Description": "1. คัมภีร์ไบเบิล 1. The Bible"
+   },
+   {
+      "Title": "vajntxwv",
+      "Description": "1. กษัตริย์ (tus) 1. a king (tus)"
+   },
+   {
+      "Title": "vajtswv",
+      "Description": "1. พระเจ้า (คำว่า Vaj แปลตรงว่ากษัตริย์ และคำว่า Tswv แปลว่าพระผู้เป็นนาย) 1. God (The word 'Vaj' by itself means 'King' and the word 'Tswv' by itself means 'Lord.')"
+   },
+   {
+      "Title": "vam",
+      "Description": "1. หวัง 1. to hope, to rely on 2. หมื่น, 10,000 2. ten thousand 10,000"
+   },
+   {
+      "Title": "vam khom",
+      "Description": "1. หวัง 1. to hope, to rely on"
+   },
+   {
+      "Title": "vam meej",
+      "Description": "1. เจริญ, ประสบความสำเร็จ 1. to prosper, to succeed."
+   },
+   {
+      "Title": "vij",
+      "Description": "1. ล้อมรอบ 1. to surround"
+   },
+   {
+      "Title": "vim",
+      "Description": "1. เพราะ 1. because Peb noj vim peb tshaib plab. เรากินเพราะเราหิว - We eat because we are hungry. (ดู vim li cas) (see vim li cas)"
+   },
+   {
+      "Title": "vim li cas",
+      "Description": "1. เพราะอะไร 1. why, for what reason"
+   },
+   {
+      "Title": "viv ncaus",
+      "Description": "1. น้องสาว, พี่สาว. ผู้หญิงใช้คำนี้กับผู้หญิง แต่โดยปกติผู้ชายงจะไม่ใช้ (tus) 1. Sister, used by females in reference to other females but generally not used by males. (ดู/see 'muam')"
+   },
+   {
+      "Title": "vivncaus",
+      "Description": "1. น้องสาว, พี่สาว. ผู้หญิงใช้คำนี้กับผู้หญิง แต่โดยปกติผู้ชายงจะไม่ใช้ (tus) 1. Sister, used by females in reference to other females but generally not used by males. (ดู/see 'muam')"
+   },
+   {
+      "Title": "wb",
+      "Description": "1. เรา. ใช้เฉพาะในการพูดถึงคนสองคนเท่านั้น 1. We. Used only to refer to two people. Wb tuaj xyuas koj. เรา (สองคน) มาเยี่ยมคุณ - We (two of us) came to visit you."
+   },
+   {
+      "Title": "xa",
+      "Description": "1. ส่ง 1. to send"
+   },
+   {
+      "Title": "xais",
+      "Description": "1. หยิก, หนีบ, นวดโดยใช้นิ้วมือหยิกๆ 1. to pinch, to massage by hard pinching"
+   },
+   {
+      "Title": "xaiv",
+      "Description": "1. เลือก, คัด 1. to choose, to select"
+   },
+   {
+      "Title": "xaiv ntsej muag",
+      "Description": "1. ลำเอียง. ตรง: เลือกหน้า 1. to be prejudice, to be racist. lit: to choose faces"
+   },
+   {
+      "Title": "xaiv tseg",
+      "Description": "1. เลือก, เจิม 1. to choose, anoint, select"
+   },
+   {
+      "Title": "xam",
+      "Description": "1. คำนวณ 1. to calculate, to figure."
+   },
+   {
+      "Title": "xam pom",
+      "Description": "1. เห็นแก่, คิดเกี่ยวกับ, คำนวณ 1. to consider, think about, calculate"
+   },
+   {
+      "Title": "Xatas",
+      "Description": "1. ซาตาน 1. Satan"
+   },
+   {
+      "Title": "xav",
+      "Description": "1. คิด, ต้องการ, รู้สึก 1. to think, to feel, to want"
+   },
+   {
+      "Title": "xav tsis thoob",
+      "Description": "1. เชื่อไม่ได้, ประหลาดใจ, งงงัน, คิดไม่ออก 1. to be unable to wrap your head around it, to be amazed, baffled, stunned"
+   },
+   {
+      "Title": "xeeb ntxwv",
+      "Description": "1. หลาน, ลูกหลาน 1. grandchild, descendant"
+   },
+   {
+      "Title": "xeem",
+      "Description": "1. นามสกุล 1. a last name, a clan name"
+   },
+   {
+      "Title": "xeev",
+      "Description": "1. จังหวัด 1. a state, a province"
+   },
+   {
+      "Title": "xeev xwm",
+      "Description": "1. รู้ตัว, ตระหนักถึงตัวเอง 1. to become aware"
+   },
+   {
+      "Title": "xib",
+      "Description": "1. เห็นควร, ชอบ, ซื่อสัตย์ 1. to approve of, to like, to be loyal to"
+   },
+   {
+      "Title": "xibhwb",
+      "Description": "1. ครู; นักเทศน์ 1. a teacher, an instructor; a pastor, a preacher."
+   },
+   {
+      "Title": "xis",
+      "Description": "1. ขวา 1. the right hand side, right sab xis ด้านขวา - the right hand side"
+   },
+   {
+      "Title": "xov",
+      "Description": "1. ข่าว 1. news, information 2. เส้นด้าย 2. a string, a thread"
+   },
+   {
+      "Title": "xub",
+      "Description": "1. อย่างแรก 1. first 2. ลูกธนู, ศร (xib) 2. an arrow (xib)"
+   },
+   {
+      "Title": "xub pwg",
+      "Description": "1. ไหล่ 1. the shoulder"
+   },
+   {
+      "Title": "xwb",
+      "Description": "1. เพียงเดียว, แค่นั้น 1. only"
+   },
+   {
+      "Title": "xwm",
+      "Description": "1. ข่าว, เหตุการณ์ 1. an event, an occurrence, news"
+   },
+   {
+      "Title": "xwm txheej",
+      "Description": "1. ความวิบัติ, ความหายนะ 1. a disaster, a bad event"
+   },
+   {
+      "Title": "xws li",
+      "Description": "1. เช่น 1. for example, like."
+   },
+   {
+      "Title": "xwv",
+      "Description": "1. เพื่อ, เพื่อจะ 1. so that, so as to Kawm ntawv xwv thiaj paub ntau dua เรียนหนังสือเพื่อจะรู้มากกว่า - Study books so as to know more"
+   },
+   {
+      "Title": "xya",
+      "Description": "1. เจ็ด, 7 1. Seven, the number 7"
+   },
+   {
+      "Title": "xyaum",
+      "Description": "1. ปฏิบัติ, ฝึกซ้อม, ฝึกหัด 1. to practice, to repeat, to rehearse"
+   },
+   {
+      "Title": "xyaw",
+      "Description": "1. ผสม 1. to mix, to combine"
+   },
+   {
+      "Title": "xyeem",
+      "Description": "1. ถวาย 1. to sacrifice, to offer something on an altar."
+   },
+   {
+      "Title": "xyiv fab",
+      "Description": "1. ยินดี 1. to be joyful, joyful"
+   },
+   {
+      "Title": "xyoo",
+      "Description": "1. ปี 1. a year, year. (ดู/ see xyoos)"
+   },
+   {
+      "Title": "xyoos",
+      "Description": "1. ปี 1. a year, year. (ดู/ see xyoo)"
+   },
+   {
+      "Title": "xyoos",
+      "Description": "1. ปี 1. a year, year. (ดู/ see xyoo)"
+   },
+   {
+      "Title": "xyov",
+      "Description": "1. คำที่แสดงถึงความไม่มั่นใจ 1. a word that expresses uncertainty"
+   },
+   {
+      "Title": "xyuas",
+      "Description": "1. เยี่ยม, ไปหา 1. to visit, to go see (someone)"
+   },
+   {
+      "Title": "yaj",
+      "Description": "1. แกะ (tus) yaj 1. a sheep 2. ละลาย 2. to melt, to thaw"
+   },
+   {
+      "Title": "yam",
+      "Description": "1. ชนิด 1. a type 2. สิ่ง 2. a thing"
+   },
+   {
+      "Title": "yam lus",
+      "Description": "1. ภาษา 1. language"
+   },
+   {
+      "Title": "yau",
+      "Description": "1. หนุ่ม, เด็กหนุ่มสาว 1. to be young 2. เด็กกว่า 2. to be younger (ดู/see yaus)"
+   },
+   {
+      "Title": "yaus",
+      "Description": "1. หนุ่ม, เด็กหนุ่มสาว 1. to be young 2. เด็กกว่า 2. to be younger (ดู/see yau)"
+   },
+   {
+      "Title": "yav",
+      "Description": "1. ช่วงเวลา, ระยะ 1. a word used to describe a period of time. ; yav tag los ช่วงมาก่อน - the past, a while back."
+   },
+   {
+      "Title": "yawg",
+      "Description": "1. ปู่ 1. paternal grandfather, the father of your father."
+   },
+   {
+      "Title": "Yawm Saub",
+      "Description": "1. บุคคลคนหนึ่งที่มีอำนาจเหนือธรรมชาติในนิทาน (dab neeg) และศาสนา (dab qhua) ของชาวม้ง 1. A supernatural character in Hmong folktales (dab neeg) and Hmong religion (dab qhua). (ด้านล่างเป็นข้อความที่ตัดตอนมาจาก 'Dab Neeg Phau Ib,' 'Zaj 6: Tub Nsuag Ntaj Hnab Tawv Plis' รวบรวมโดย Yves Bertrais. // Below is an excerpt from 'Dab Neeg Phau Ib,' 'Zaj 6: Tub Nsuag Ntaj Hnab Tawv Plis' compiled by Yves Bertrais.) Ces muaj ib hnub, Yawm Saub txawm los ua npau suav rau Ntxawm tias: \"Ntxawd! Koj mas ntuj yeej tiam ntawv los kom koj tau yuav peb tug tub ntsuag uas nyob pem roob ped ib tug. Mas koj kom koj txiv mus hu lawv tuaj. Tus twg kho tau koj ces koj yuav tus ntawd nawd.\""
+   },
+   {
+      "Title": "Yawmsaub",
+      "Description": "1. บุคคลคนหนึ่งที่มีอำนาจเหนือธรรมชาติในนิทาน (dab neeg) และศาสนา (dab qhua) ของชาวม้ง 1. A supernatural character in Hmong folktales (dab neeg) and Hmong religion (dab qhua). (ด้านล่างเป็นข้อความที่ตัดตอนมาจาก 'Dab Neeg Phau Ib,' 'Zaj 6: Tub Nsuag Ntaj Hnab Tawv Plis' รวบรวมโดย Yves Bertrais. // Below is an excerpt from 'Dab Neeg Phau Ib,' 'Zaj 6: Tub Nsuag Ntaj Hnab Tawv Plis' compiled by Yves Bertrais.) Ces muaj ib hnub, Yawm Saub txawm los ua npau suav rau Ntxawm tias: \"Ntxawd! Koj mas ntuj yeej tiam ntawv los kom koj tau yuav peb tug tub ntsuag uas nyob pem roob ped ib tug. Mas koj kom koj txiv mus hu lawv tuaj. Tus twg kho tau koj ces koj yuav tus ntawd nawd.\""
+   },
+   {
+      "Title": "yeeb",
+      "Description": "1. ฝิ่น 1. opium"
+   },
+   {
+      "Title": "yeeb ncuab",
+      "Description": "1. ศัตรู 1. An enemy"
+   },
+   {
+      "Title": "yeeb yaj kiab",
+      "Description": "1. หนัง, ภาพยนฅร์ 1. A movie, a film"
+   },
+   {
+      "Title": "yeej",
+      "Description": "1. แน่นอน, แน่ ๆ; ใช้ก่อนคำกริยาที่แน่ๆ 1. certainly, definitely ; Used before the verb that is certain. Kuv yeej nyiam koj xwb. ผมชอบคุณ แน่ๆ - I definitely like you. 2. ชัยชนะ. มักจะนำหน้าด้วยคำว่า 'kov.' 2. to win. Often preceded by the word 'kov.'"
+   },
+   {
+      "Title": "yees siv",
+      "Description": "1. เวทมนตร์คาถา, เวทมนตร์, ไสยเวท 1. magic, the magical arts"
+   },
+   {
+      "Title": "Yehauvas",
+      "Description": "1. พระยะโฮวา 1. Jehovah"
+   },
+   {
+      "Title": "Yexus",
+      "Description": "1. พระเยซู 1. Jesus"
+   },
+   {
+      "Title": "Yexus Khetos",
+      "Description": "1. พระเยซูคริสต์ 1. Jesus Christ"
+   },
+   {
+      "Title": "yig",
+      "Description": "... ดู yim"
+   },
+   {
+      "Title": "yim",
+      "Description": "1. แปด, 8 1. Eight, the number 8."
+   },
+   {
+      "Title": "yimhuab",
+      "Description": "1. ยิ่ง, มากขึ้น, มากกว่าเดิม 1. even more so, to be greater or more so than before"
+   },
+   {
+      "Title": "yog",
+      "Description": "1. เป็น 1. is, am Kuv yog Hmoob ผมเป็นคนม้ง - I am Hmong. 2. ไช่, ถูกต้อง 2. correct, right, yes, the positive marker. 3. ถ้า 3. if"
+   },
+   {
+      "Title": "yog toog",
+      "Description": "1. นิมิต 1. a vision, a supernatural vision Kuv ua yog toog. ผมได้ รับ นิมิต - I received a vision."
+   },
+   {
+      "Title": "yoog",
+      "Description": "1. เลียนแบบ, ตามอย่าง 1. to imitate, to copy, to follow along"
+   },
+   {
+      "Title": "yooj yim",
+      "Description": "1. ง่าย 1. to be easy"
+   },
+   {
+      "Title": "yoojyim",
+      "Description": "1. ง่าย 1. to be easy"
+   },
+   {
+      "Title": "yuam",
+      "Description": "1. บังคับ 1. to force"
+   },
+   {
+      "Title": "yuam kev",
+      "Description": "1. ไม่ถูกต้อง, ผิด 1. wrong, inaccurate, incorrect"
+   },
+   {
+      "Title": "yuav",
+      "Description": "1. จะ 1. will, going to Nws yuav mus tsev. เขา จะ กลับบ้าน, He will go home. 2. ซื้อ 2. to buy Nws yuav tsheb tshiab. เขา ซื้อ รถใหม่ - He bought a new car. 3. เอา, ยอมรับ 3. will take, want, willing to accept Tsis yuav nws ua vajntxwv ไม่ รับ เขาเป็นกษัตริย์ - Not accept him as king. 4. แต่งงาน 4. to marry"
+   },
+   {
+      "Title": "yuav luag",
+      "Description": "1. เกือบ, เกือบจะ 1. almost"
+   },
+   {
+      "Title": "yuav tau",
+      "Description": "1. ควรจะ, คู่ควรจะ 1. should 2. จะได้รับ 2. will receive"
+   },
+   {
+      "Title": "yuav tsum",
+      "Description": "1. ต้อง, จำเป็นต้อง, จง, ควร 1. must, have to, need to"
+   },
+   {
+      "Title": "yug",
+      "Description": "1. กำเนิด, เกิด (เกี่ยวกับมนุษย์เท่านั้น) 1. to be born (regarding humans only) 2. เลี้ยง, ดูแล 2. to take care of, to look after the needs of."
+   },
+   {
+      "Title": "yus",
+      "Description": "1. สรรพนามพิเศษที่พูดถึงคนใดคนหนึ่งแต่ไม่โดยเฉพาะ 1. an indirect personal pronoun, similar to 'one' used as a personal pronoun in English. Yus tsis txhob noj ntau ntau ใครๆ อย่ากินเยอะ - one should not eat a lot"
+   },
+   {
+      "Title": "ywj pheej",
+      "Description": "1. อิสระ 1. to be free (as in not a slave)"
+   },
+   {
+      "Title": "ywj siab",
+      "Description": "1. อิสระในการเลือกโดยไม่มีใครห้าม เป็นเจ้าของตัวเอง 1. To freely make choices without anyone prohibiting you."
+   },
+   {
+      "Title": "yws",
+      "Description": "1. บ่น 1. to complain"
+   },
+   {
+      "Title": "zais zis",
+      "Description": "1. กระเพาะปัสสาวะ 1. the bladder"
+   },
+   {
+      "Title": "zaj",
+      "Description": "1. คำลักษณนามใช้เกี่ยวกับเรื่อง, นิยาย, เพลง, คำบรรยาย, และอื่นๆ 1. a noun classifier for speeches, folktales, stories, songs, prayers, etc. 2. มังกร (tus) 2. a dragon (tus)"
+   },
+   {
+      "Title": "zaj sawv",
+      "Description": "1. รุ้ง 1. a rainbow"
+   },
+   {
+      "Title": "zam",
+      "Description": "1. หลีกเลี่ยง 1. to avoid (ดู/see 'zam txim' และ/ and 'zam xeeb') 2. ให้อภัย 2. to forgive zam txim ให้อภัย - to forgive 3. เครื่องแต่งกายที่สวยงามและเข้าแฟชั่น 3. beautiful or fashionable clothing ua zam แต่งตัวอย่างสวยงาม - to dress up beautifully"
+   },
+   {
+      "Title": "zam txim",
+      "Description": "1. ให้อภัย 1. to forgive zam txim ให้อภัย - to forgive (ดู/see 'zam xeeb' และ/ and 'zam')"
+   },
+   {
+      "Title": "zam xeeb",
+      "Description": "1. ให้อภัย 1. to forgive zam xeeb ให้อภัย - to forgive (ดู/see 'zam txim' และ/ and 'zam')"
+   },
+   {
+      "Title": "zaub",
+      "Description": "1. ผัก 1. vegetable, vegetables (ดู/see 'zaub mov')"
+   },
+   {
+      "Title": "zaub mov",
+      "Description": "1. อาหาร. ตรง: ผักและข้าว 1. food. Lit. vegetables and rice"
+   },
+   {
+      "Title": "zaug",
+      "Description": "1. ครั้ง 1. a time, an occurance"
+   },
+   {
+      "Title": "zaum",
+      "Description": "1. นั่ง 1. to sit"
+   },
+   {
+      "Title": "zaum puav",
+      "Description": "1. บางครั้ง, บางที 1. sometimes, occasionally"
+   },
+   {
+      "Title": "zaus",
+      "Description": "1. ครั้ง 1. a time, an occurance Nws tuaj ntau zaus lawm. เขาได้มาหลายครั้งแล้ว - He has come many times."
+   },
+   {
+      "Title": "ze",
+      "Description": "1. ใกล้ 1. to be close, to be near"
+   },
+   {
+      "Title": "zej zog",
+      "Description": "1. เกี่ยวกับหมู่บ้าน 1. relating to the village"
+   },
+   {
+      "Title": "zog",
+      "Description": "1. พลัง 1. energy, power, strength"
+   },
+   {
+      "Title": "zom zaws",
+      "Description": "1. เกิดขึ้นทุกที่พร้อมกัน 1. happening all over at once ras zom zaws ตกใจหนีพร้อมกัน - startled and ran away all at once"
+   },
+   {
+      "Title": "zoo",
+      "Description": "1. ดี 1. good, to be good"
+   },
+   {
+      "Title": "zoo li",
+      "Description": "1. เหมือน,ดูเหมือน, เหมือนกับ 1. too look like, to be like, similar to"
+   },
+   {
+      "Title": "zoo nkauj",
+      "Description": "1. สวย, งาม 1. to be beautiful, pretty"
+   },
+   {
+      "Title": "zoo siab",
+      "Description": "1. มีความสุข, ดีใจ 1. to be happy"
+   },
+   {
+      "Title": "zov",
+      "Description": "1. เฝ้า, เฝ้าดู, ดูแล ; 1. to guard, look over, to watch over"
+   },
+   {
+      "Title": "zuaj",
+      "Description": "1. นวด, กด 1. to massage, to squeeze"
+   },
+   {
+      "Title": "zuj zus",
+      "Description": "1. คำวิเศษณ์ซึ่งจะอธิบายการเปลี่ยนแปลงอย่างค่อยเป็นค่อยไป 1. an adverb shows a verb is being done in increments, bit by bit, or gradually"
+   },
+   {
+      "Title": "zwm txwv",
+      "Description": "1. บัลลังก์ 1. a throne lub zwm txwv บัลลังก์ - a throne"
+   }
+]
